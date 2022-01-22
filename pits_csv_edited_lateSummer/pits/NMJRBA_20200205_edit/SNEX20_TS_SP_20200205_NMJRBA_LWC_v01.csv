@@ -1,0 +1,21 @@
+# Location,Jemez River
+# Site,BA Flux Tower
+# PitID,NMJRBA
+# Date/Local Time,2020-02-05T11:14
+# UTM Zone,13N
+# Easting,361740
+# Northing,3972675
+# Latitude,35.88859
+# Longitude,-106.53184
+"# Top
+(cm)","Bottom
+(cm)",Avg Density (kg/m3),Permittivity A,Permittivity B,LWC-vol A (%),LWC-vol B (%)
+90.0,80.0,214.0,NaN,NaN,NaN,NaN
+80.0,70.0,252.5,NaN,NaN,NaN,NaN
+70.0,60.0,289.0,NaN,NaN,NaN,NaN
+60.0,50.0,306.5,NaN,NaN,NaN,NaN
+50.0,40.0,321.5,NaN,NaN,NaN,NaN
+40.0,30.0,312.0,NaN,NaN,NaN,NaN
+30.0,20.0,303.5,NaN,NaN,NaN,NaN
+20.0,10.0,320.5,NaN,NaN,NaN,NaN
+13.0,3.0,326.0,NaN,NaN,NaN,NaN

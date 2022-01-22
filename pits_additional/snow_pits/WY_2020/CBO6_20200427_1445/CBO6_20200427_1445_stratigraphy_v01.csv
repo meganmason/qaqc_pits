@@ -1,0 +1,16 @@
+# Location,CB
+# Site,O6
+# PitID,3
+# Date/Local Time,2020-04-27T14:45
+# UTM Zone,13N
+# Easting,328364
+# Northing,4310516
+# Latitude,38.92679
+# Longitude,-106.98001
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+90.0,85.0,NaN,MF,F,V,NaN
+85.0,80.0,NaN,MFCR,P,V,NaN
+80.0,64.0,NaN,MF,4F+,V,NaN
+64.0,60.0,NaN,IF,K,S,Wetting front/decomposing ice crusts
+60.0,47.0,NaN,MF,1F,V,NaN
+47.0,0.0,NaN,MF,4F+,W,NaN

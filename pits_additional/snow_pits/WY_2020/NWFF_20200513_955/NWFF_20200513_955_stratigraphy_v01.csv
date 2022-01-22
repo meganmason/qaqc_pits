@@ -1,0 +1,18 @@
+# Location,NW
+# Site,FF
+# PitID,1
+# Date/Local Time,2020-05-13T09:55
+# UTM Zone,13N
+# Easting,453353
+# Northing,4431394
+# Latitude,40.03148
+# Longitude,-105.54673
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+94.0,90.0,NaN,NaN,NaN,NaN,"rotten snow, tree litter melting"
+90.0,84.0,NaN,NaN,NaN,NaN,packed corn snow
+84.0,77.0,NaN,NaN,NaN,NaN,melt-freeze crusty
+77.0,55.0,NaN,NaN,NaN,NaN,packed rounds/corn
+55.0,33.0,NaN,NaN,NaN,NaN,loose melt-freeze
+33.0,17.0,NaN,NaN,NaN,NaN,"wet, loose MF"
+17.0,10.0,NaN,NaN,NaN,NaN,harder packed MF
+10.0,0.0,NaN,NaN,NaN,NaN,"previous facets, now more round/ corn"

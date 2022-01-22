@@ -1,0 +1,17 @@
+# Location,Boise River Basin
+# Site,LDP Tree
+# PitID,IDBRLT
+# Date/Local Time,2020-02-20T10:42
+# UTM Zone,11N
+# Easting,570823
+# Northing,4842965
+# Latitude,43.73634
+# Longitude,-116.12052
+# Top (cm),Bottom (cm),Density A (kg/m3),Density B (kg/m3),Density C (kg/m3)
+71.0,61.0,204.0,188.0,180.0
+61.0,51.0,NaN,NaN,NaN
+51.0,41.0,NaN,NaN,NaN
+41.0,31.0,NaN,NaN,NaN
+31.0,25.0,NaN,NaN,NaN
+25.0,15.0,284.0,300.0,288.0
+19.0,9.0,300.0,292.0,NaN

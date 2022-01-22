@@ -1,0 +1,19 @@
+# Location,Little Cottonwood
+# Site,Alta Collins
+# PitID,UTLCAC
+# Date/Local Time,2020-02-27T10:00
+# UTM Zone,12N
+# Easting,446677
+# Northing,4491448
+# Latitude,40.5721
+# Longitude,-111.62997
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+244.0,232.0,1-2 mm,PP,4F,D,NaN
+232.0,192.0,< 1 mm,RG,4F,D,4F at top and transitions to 1F
+192.0,185.0,< 1 mm,RG,1F,D,NaN
+185.0,167.0,< 1 mm,RG,1F,D,NaN
+167.0,157.0,< 1 mm,FC,1F,D,some rounds
+157.0,84.0,< 1 mm,RG,1F,D,1F at top and transitions to P
+84.0,50.0,1-2 mm,FC,P,D,some rounds
+50.0,20.0,1-2 mm,RG,P,D,NaN
+20.0,0.0,2-4 mm,FC,P,D,rounded depth hoar

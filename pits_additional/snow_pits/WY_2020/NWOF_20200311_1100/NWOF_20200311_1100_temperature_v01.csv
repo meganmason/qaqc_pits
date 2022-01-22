@@ -1,0 +1,20 @@
+# Location,NW
+# Site,OF
+# PitID,1
+# Date/Local Time,2020-03-11T11:00
+# UTM Zone,13N
+# Easting,452898
+# Northing,4431871
+# Latitude,40.03575
+# Longitude,-105.55209
+# Depth (cm),Temperature (deg C)
+83.0,0.2
+80.0,-0.2
+70.0,-1.6
+60.0,-1.0
+50.0,-0.7
+40.0,-0.2
+30.0,0.0
+20.0,0.1
+10.0,0.1
+0.0,0.1

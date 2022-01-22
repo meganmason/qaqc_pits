@@ -1,0 +1,18 @@
+# Location,CB
+# Site,Aspen
+# PitID,1
+# Date/Local Time,2020-04-27T09:45
+# UTM Zone,13N
+# Easting,329131
+# Northing,4310327
+# Latitude,38.92524
+# Longitude,-106.97112
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+95.0,90.0,NaN,MF,1F,W,NaN
+90.0,81.0,NaN,MFCR,K,V,NaN
+81.0,64.0,NaN,MF,1F+,S,NaN
+64.0,60.0,NaN,MF,4F+,W,NaN
+60.0,54.0,NaN,MF,4F,W,NaN
+54.0,37.0,NaN,MF,F+,W,NaN
+37.0,10.0,NaN,MF,F,W,NaN
+10.0,0.0,NaN,MF,F,W,NaN

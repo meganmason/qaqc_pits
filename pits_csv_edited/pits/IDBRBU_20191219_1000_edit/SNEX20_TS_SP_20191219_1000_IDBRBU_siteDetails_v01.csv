@@ -1,0 +1,26 @@
+# Location,Boise River Basin
+# Site,Bogus Upper
+# PitID,IDBRBU
+# Date/Local Time,2019-12-19T10:00
+# UTM Zone,11N
+# Easting (m),573240
+# Northing (m),4845491
+# Latitude (deg),43.75884
+# Longitude (deg),-116.09017
+# Slope (deg),14
+# Aspect (deg),135
+# Air Temp (deg C),-2
+# Total Depth (cm),57
+# Surveyors,"M. Mason, HP Marshall"
+# WISe Serial No,WIS007A
+# Weather,"Low visibility half way up Bogus. Snow is falling sideways, but not super windy feeling. Precip=light snow. "
+# Precip,Light
+# Sky,Overcast(complete cover)
+# Wind,Light
+# Ground Condition,Moist
+# Ground Roughness,Smooth
+# Ground Vegetation,Shrub
+# Vegetation Depth,8-12
+# Tree Canopy,Sparse (5-20%)
+# Comments:,"PD: Magna probe measurements. SMP files: S19M0622, -0623, -0624. 17-7
+LWC: couldn't push instrument all the way in"

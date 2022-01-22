@@ -1,0 +1,15 @@
+# Location,NW
+# Site,OF
+# PitID,3
+# Date/Local Time,2020-02-12T12:54
+# UTM Zone,13N
+# Easting,452888
+# Northing,4431886
+# Latitude,40.03588
+# Longitude,-105.55221
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+74.0,63.0,NaN,NaN,NaN,NaN,Fresh snow
+63.0,50.0,NaN,NaN,NaN,NaN,lightly compact
+50.0,37.0,NaN,NaN,NaN,NaN,heavily compact
+37.0,20.0,NaN,NaN,NaN,NaN,lightly compact
+20.0,0.0,NaN,NaN,NaN,NaN,facet layer

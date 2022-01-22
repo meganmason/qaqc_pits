@@ -1,0 +1,13 @@
+# Location,Grand Mesa
+# Site,Skyway Open
+# PitID,COGMSO
+# Date/Local Time,2020-02-19T13:40
+# UTM Zone,12N
+# Easting,754270
+# Northing,4325785
+# Latitude,39.04415
+# Longitude,-108.06202
+"# Top
+(cm)","Bottom
+(cm)",Avg Density (kg/m3),Permittivity A,Permittivity B,LWC-vol A (%),LWC-vol B (%)
+109.0,NaN,215.0,1.297,1.346,0.0,0.21410697574481066

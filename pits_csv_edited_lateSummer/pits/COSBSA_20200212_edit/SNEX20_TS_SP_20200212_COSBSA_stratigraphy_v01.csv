@@ -1,0 +1,19 @@
+# Location,Senator Beck
+# Site,Swamp Angel
+# PitID,COSBSA
+# Date/Local Time,2020-02-12T12:36
+# UTM Zone,13N
+# Easting,261641
+# Northing,4198978
+# Latitude,37.90714
+# Longitude,-107.71121
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+171.0,168.0,1-2 mm,PP,F,D,NaN
+168.0,167.0,< 1 mm,MFCR,1F,D,Hand hardness ranges from 1F to P
+167.0,154.0,1-2 mm,DF,F,D,NaN
+154.0,130.0,< 1 mm,DF,1F,D,Some rounds (RG)
+130.0,119.0,< 1 mm,RG,P,D,NaN
+119.0,101.0,< 1 mm,RG,1F,D,NaN
+101.0,20.0,1-2 mm,RG,P,D,Mixed forms
+20.0,10.0,1-2 mm,RG,P,D,Rounded Depth Hoar (DH) 2 mm; hand hardness ranges from P to 1F
+10.0,0.0,2-4 mm,RG,P,D,Rounded Depth Hoar (DH) with polycrystals to 4 mm

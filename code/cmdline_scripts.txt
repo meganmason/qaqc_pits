@@ -1,0 +1,59 @@
+Cd 
+3/3/21
+Replace one char in filename:
+Site: https://superuser.com/questions/659876/how-to-rename-files-and-replace-characters
+
+for f in *:*; do mv -v "$f" $(echo "$f" | tr ':' '-'); done
+
+Explanation:
+
+    for ... in ...; do ...; done is a loop
+
+    *:* matches all files and directories in the the current directory which have : in their name
+
+    f is assigned in turn to each such file name in the loop
+
+    mv renames its first argument to the second one; -v (verbose) asks it to print what it does; this option is GNU-utils specific, so it is available on Linux but not Solaris
+
+    $(...) executes the code in a sub-shell and substitutes the output
+
+    echo prints its argument to the standard output
+
+    tr reads standard output and translates the characters according to the supplied map
+
+If you are using bash, you can avoid spawning an extra shell ($()) with sub-processes (tr) by replacing $(...) with ${f//:/-}.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Print all files [sort of recursively] (from a loop):
+for i in **/*.JPG; do echo $i; done
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Append to front of filename:
+	for i in *; do mv "$i" Fraser_"$i"; done
+
+JPG > jpg
+
+for i in *; do new_name=$(echo $i | sed -En 's/.JPG/.jpg/p'); mv $i $new_name; done
+
+
+Book > book 1
+
+for i in *book.jpg; do new_name=$(echo $i | sed -En 's/book/book1/p'); mv $i $new_name; done
+
+Append front: 
+for i in *; do new_name=$(echo $i | sed -En 's/COFFS1/Fraser_SNB1_COFES1/p'); mv $i $new_name; done
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Recursively move all photos from multiple file levels to one location. 
+
+cp ~/Documents/snowex/2020/timeseries/qaqc_pits/app_data_02032021/American/**/**/**/*.jpg ./American-River/Caples-Lake/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Convert 1 pdf to several jpgs
+	convert Irwin-Barn.pdf pages.jpg = Irwin-Barn.pdf --> pages-1.jpg, pages-2.jpg, etc. 
+Convert 1 pdf to several jpgs (AND KEEP QUALITY):
+convert -density 150 -trim Gothic.pdf -quality 100 UpperGunnison_Gothic_COUGGT_2020.jpg
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cp some files and move elsewhere. 
+for i in *_edit/*pitSheet*; do name=$(basename $i); cp $i ../workbooks/$name; done

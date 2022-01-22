@@ -1,0 +1,14 @@
+# Location,Fraser
+# Site,JPL #1
+# PitID,COFEJ1
+# Date/Local Time,2019-10-24T12:43
+# UTM Zone,13N
+# Easting,424539
+# Northing,4417649
+# Latitude,39.90557
+# Longitude,-105.88281
+"# Top
+(cm)","Bottom
+(cm)",Avg Density (kg/m3),Permittivity A,Permittivity B,LWC-vol A (%),LWC-vol B (%)
+23.0,13.0,102.0,NaN,NaN,NaN,NaN
+13.0,3.0,218.0,NaN,NaN,NaN,NaN

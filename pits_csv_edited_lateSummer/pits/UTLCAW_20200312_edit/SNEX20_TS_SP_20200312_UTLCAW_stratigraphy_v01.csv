@@ -1,0 +1,37 @@
+# Location,Little Cottonwood
+# Site,Atwater
+# PitID,UTLCAW
+# Date/Local Time,2020-03-12T13:48
+# UTM Zone,12N
+# Easting,446048
+# Northing,4493579
+# Latitude,40.59125
+# Longitude,-111.63759
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+238.0,234.0,4-6 mm,RG,F,M,Surface melt!
+234.0,232.0,4-6 mm,MF,P,M,"Dust layer, HH range P-K, some grains 2-4mm"
+232.0,221.0,2-4 mm,FC,4F,D,Some rounds
+221.0,220.0,[],IF,K,D,NaN
+220.0,211.0,1-2 mm,RG,4F,D,NaN
+211.0,209.0,2-4 mm,MF,K,D,Discontinuous ice chunks
+209.0,203.0,1-2 mm,RG,4F,D,NaN
+203.0,200.0,2-4 mm,MF,K,D,Discontinuous
+200.0,163.0,1-2 mm,RG,1F,D,NaN
+163.0,161.0,> 6 mm,MFCR,K,D,NaN
+161.0,158.0,2-4 mm,RG,1F,D,NaN
+158.0,155.0,[],IF,K,D,NaN
+155.0,143.0,1-2 mm,RG,1F,D,NaN
+143.0,142.0,[],IF,K,D,Discontinuous
+142.0,119.0,1-2 mm,RG,1F,D,NaN
+119.0,116.0,2-4 mm,MF,P,D,Dust layer
+116.0,114.0,2-4 mm,RG,P,D,NaN
+114.0,112.0,[],IF,K,D,two ice lenses with 1-2mm RG between
+112.0,91.0,2-4 mm,RG,P,D,NaN
+91.0,90.0,[],IF,K,D,NaN
+90.0,46.0,2-4 mm,RG,P,D,NaN
+46.0,45.0,2-4 mm,MF,1F,D,NaN
+45.0,39.0,2-4 mm,RG,P,D,NaN
+39.0,37.0,2-4 mm,MF,1F,D,"Discontinuous, HH of 1F+"
+37.0,31.0,2-4 mm,RG,P,D,NaN
+31.0,29.0,4-6 mm,MF,1F,D,NaN
+29.0,0.0,2-4 mm,RG,P,D,NaN

@@ -1,0 +1,17 @@
+# Location,CB
+# Site,Upper
+# PitID,1
+# Date/Local Time,2020-05-12T09:00
+# UTM Zone,13N
+# Easting,327514
+# Northing,4311256
+# Latitude,38.93329
+# Longitude,-106.98999
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+90.0,80.0,NaN,PP,F,M,"New snow, up warming"
+80.0,67.0,NaN,MF,P,M,NaN
+67.0,66.0,NaN,IF,K,M,NaN
+66.0,52.0,NaN,MF,1F,M,NaN
+52.0,40.0,NaN,MF,4F,M,NaN
+40.0,15.0,NaN,MF,F+,M,NaN
+15.0,0.0,NaN,MF,F,M,NaN

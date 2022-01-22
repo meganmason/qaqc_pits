@@ -1,0 +1,20 @@
+# Location,Mammoth Lakes
+# Site,Panorama Dome
+# PitID,CAMLPD
+# Date/Local Time,2019-12-18T11:28
+# UTM Zone,11N
+# Easting,323468
+# Northing,4165496
+# Latitude,37.61964
+# Longitude,-119.00028
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+130.0,126.0,< 1 mm,MFCR,K,D,"ice, well bonded angular grains"
+126.0,113.0,< 1 mm,FC,P,D,"solid faceted particles, FCso"
+113.0,107.0,< 1 mm,FC,P,D,"solid faceted particles, FCso"
+107.0,93.0,< 1 mm,FC,K,D,"solid faceted particles, FCso,
+some 0.5mm grains"
+93.0,76.0,< 1 mm,FC,P,D,"solid faceted particles, FCso"
+76.0,46.0,< 1 mm,FC,P,D,"faceted rounded particles, RGxf"
+46.0,43.0,< 1 mm,MFCR,P,D,discontinuous ice lenses
+43.0,19.0,< 1 mm,FC,P,D,some rounded grains (RG)
+19.0,0.0,[],[],[],[],snow plus vegetation

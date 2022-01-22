@@ -1,0 +1,21 @@
+# Location,Cameron Pass
+# Site,Joe Wright
+# PitID,COCPJW
+# Date/Local Time,2020-01-31T10:00
+# UTM Zone,13N
+# Easting,424321
+# Northing,4486308
+# Latitude,40.52405
+# Longitude,-105.89345
+# Top (cm),Bottom (cm),Density A (kg/m3),Density B (kg/m3),Density C (kg/m3)
+103.5,93.5,58.0,70.0,72.0
+93.5,83.5,108.0,111.0,NaN
+83.5,73.5,168.0,151.0,188.0
+73.5,63.5,298.0,285.0,NaN
+63.5,53.5,292.0,311.0,NaN
+53.5,43.5,375.0,364.0,NaN
+43.5,33.5,330.0,306.0,NaN
+33.5,23.5,281.0,360.0,328.0
+23.5,13.5,328.0,380.0,364.0
+13.5,3.5,332.0,328.0,NaN
+10.0,0.0,356.0,336.0,NaN

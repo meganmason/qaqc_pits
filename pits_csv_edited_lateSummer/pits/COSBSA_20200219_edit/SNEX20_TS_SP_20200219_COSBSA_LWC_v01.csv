@@ -1,0 +1,28 @@
+# Location,Senator Beck
+# Site,Swamp Angel
+# PitID,COSBSA
+# Date/Local Time,2020-02-19T14:46
+# UTM Zone,13N
+# Easting,261641
+# Northing,4198978
+# Latitude,37.90714
+# Longitude,-107.71121
+"# Top
+(cm)","Bottom
+(cm)",Avg Density (kg/m3),Permittivity A,Permittivity B,LWC-vol A (%),LWC-vol B (%)
+163.0,153.0,172.5,NaN,NaN,NaN,NaN
+153.0,143.0,208.5,NaN,NaN,NaN,NaN
+143.0,133.0,225.0,NaN,NaN,NaN,NaN
+133.0,123.0,253.0,NaN,NaN,NaN,NaN
+123.0,113.0,273.5,NaN,NaN,NaN,NaN
+113.0,103.0,294.0,NaN,NaN,NaN,NaN
+103.0,93.0,332.5,NaN,NaN,NaN,NaN
+93.0,83.0,324.5,NaN,NaN,NaN,NaN
+83.0,73.0,344.5,NaN,NaN,NaN,NaN
+73.0,63.0,360.5,NaN,NaN,NaN,NaN
+63.0,53.0,339.0,NaN,NaN,NaN,NaN
+53.0,43.0,352.5,NaN,NaN,NaN,NaN
+43.0,33.0,376.0,NaN,NaN,NaN,NaN
+33.0,23.0,395.0,NaN,NaN,NaN,NaN
+23.0,13.0,367.5,NaN,NaN,NaN,NaN
+13.0,3.0,320.5,NaN,NaN,NaN,NaN

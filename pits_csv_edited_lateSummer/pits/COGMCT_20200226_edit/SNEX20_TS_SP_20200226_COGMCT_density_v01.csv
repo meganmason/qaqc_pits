@@ -1,0 +1,20 @@
+# Location,Grand Mesa
+# Site,County Line Tree
+# PitID,COGMCT
+# Date/Local Time,2020-02-26T08:55
+# UTM Zone,12N
+# Easting,756712
+# Northing,4324540
+# Latitude,39.03224
+# Longitude,-108.03431
+# Top (cm),Bottom (cm),Density A (kg/m3),Density B (kg/m3),Density C (kg/m3)
+100.0,90.0,138.0,139.0,NaN
+90.0,80.0,210.0,209.0,NaN
+80.0,70.0,255.0,244.0,NaN
+70.0,60.0,290.0,280.0,NaN
+60.0,50.0,302.0,283.0,NaN
+50.0,40.0,289.0,297.0,NaN
+40.0,30.0,292.0,291.0,NaN
+30.0,20.0,307.0,308.0,NaN
+20.0,10.0,302.0,304.0,NaN
+15.0,5.0,291.0,NaN,NaN

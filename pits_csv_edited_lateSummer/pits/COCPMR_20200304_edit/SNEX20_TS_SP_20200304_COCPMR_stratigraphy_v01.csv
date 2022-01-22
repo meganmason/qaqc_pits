@@ -1,0 +1,16 @@
+# Location,Cameron Pass
+# Site,Michigan River
+# PitID,COCPMR
+# Date/Local Time,2020-03-04T12:29
+# UTM Zone,13N
+# Easting,424441
+# Northing,4485707
+# Latitude,40.51865
+# Longitude,-105.89196
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+118.0,112.0,< 1 mm,RG,4F,NaN,Wind packed - explains ranges of densities
+112.0,85.0,1-2 mm,RG,4F,NaN,NaN
+85.0,71.0,1-2 mm,RG,1F,NaN,Closer to 3 mm grain size
+71.0,61.0,1-2 mm,RG,1F,NaN,Some facets
+61.0,17.0,2-4 mm,FC,F,NaN,Some cups
+17.0,0.0,2-4 mm,FC,P,NaN,Pronounced striations. A. Olsen revised grain type from 'DH' (for depth hoar) to FC

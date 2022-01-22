@@ -1,0 +1,15 @@
+# Location,Grand Mesa
+# Site,County Line Tree
+# PitID,COGMCT
+# Date/Local Time,2019-12-19T14:20
+# UTM Zone,12N
+# Easting,756712
+# Northing,4324540
+# Latitude,39.03224
+# Longitude,-108.03431
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+52.0,38.0,< 1 mm,PP,F,D,Very few DF
+38.0,27.0,1-2 mm,DF,4F,D,Some grains <1mm
+27.0,17.0,< 1 mm,DF,1F,D,"Very small grains, some RG"
+17.0,8.0,1-2 mm,RG,4F,D,1 mm
+8.0,0.0,1-2 mm,FC,F,D,2 mm

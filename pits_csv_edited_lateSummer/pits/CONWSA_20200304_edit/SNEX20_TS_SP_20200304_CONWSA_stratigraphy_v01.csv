@@ -1,0 +1,15 @@
+# Location,Niwot Ridge
+# Site,Saddle
+# PitID,CONWSA
+# Date/Local Time,2020-03-04T10:06
+# UTM Zone,13N
+# Easting,449623
+# Northing,4434025
+# Latitude,40.05497
+# Longitude,-105.59065
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+97.0,83.0,< 1 mm,DF,1F,NaN,NaN
+83.0,67.0,< 1 mm,DF,1F,NaN,NaN
+67.0,44.0,< 1 mm,RG,K,NaN,NaN
+44.0,25.0,< 1 mm,RG,P,NaN,NaN
+25.0,0.0,2-4 mm,FC,4F,NaN,NaN

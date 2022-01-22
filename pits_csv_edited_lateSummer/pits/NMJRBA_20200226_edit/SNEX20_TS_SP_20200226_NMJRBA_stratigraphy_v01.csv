@@ -1,0 +1,24 @@
+# Location,Jemez River
+# Site,BA Flux Tower
+# PitID,NMJRBA
+# Date/Local Time,2020-02-26T11:39
+# UTM Zone,13N
+# Easting,361740
+# Northing,3972675
+# Latitude,35.88859
+# Longitude,-106.53184
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+85.0,81.5,< 1 mm,RG,F,D,NaN
+81.5,80.0,< 1 mm,RG,F,D,NaN
+80.0,78.0,1-2 mm,MFCR,K,D,Sun crust
+78.0,77.0,< 1 mm,FC,F,D,NaN
+77.0,74.0,< 1 mm,MFCR,K,D,Sun crust
+74.0,72.0,< 1 mm,FC,F,D,NaN
+72.0,64.0,< 1 mm,RG,4F,D,NaN
+64.0,57.0,1-2 mm,FC,F,D,NaN
+57.0,48.0,1-2 mm,RG,4F,D,NaN
+48.0,33.0,2-4 mm,FC,F,D,NaN
+33.0,25.0,1-2 mm,FC,4F,D,NaN
+25.0,20.0,1-2 mm,FC,1F,D,NaN
+20.0,6.0,2-4 mm,FC,F,D,NaN
+6.0,0.0,1-2 mm,FC,1F,M,NaN

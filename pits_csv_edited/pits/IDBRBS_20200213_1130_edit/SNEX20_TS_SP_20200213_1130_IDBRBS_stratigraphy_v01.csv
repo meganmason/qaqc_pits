@@ -1,0 +1,15 @@
+# Location,Boise River Basin
+# Site,Banner Snotel
+# PitID,IDBRBS
+# Date/Local Time,2020-02-13T11:30
+# UTM Zone,11N
+# Easting,640819
+# Northing,4907111
+# Latitude,44.30361
+# Longitude,-115.23456
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+134.0,115.0,< 1 mm,DF,F,D,NaN
+115.0,83.0,< 1 mm,DF,4F,D,NaN
+83.0,32.0,< 1 mm,RG,P,D,NaN
+32.0,8.0,1-2 mm,FC,1F,D,sugary snow
+8.0,0.0,2-4 mm,MFCR,K,D,icy crust layer

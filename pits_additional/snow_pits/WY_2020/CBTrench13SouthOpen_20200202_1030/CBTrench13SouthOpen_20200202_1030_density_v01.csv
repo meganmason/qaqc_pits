@@ -1,0 +1,17 @@
+# Location,CB
+# Site,Trench13SouthOpen
+# PitID,1
+# Date/Local Time,2020-02-02T10:30
+# UTM Zone,13N
+# Easting,328570
+# Northing,4310779
+# Latitude,38.9292
+# Longitude,-106.9777
+# Top (cm),Bottom (cm),Density A (kg/m3),Density B (kg/m3),Density C (kg/m3)
+81.0,71.0,210.0,192.0,NaN
+71.0,71.0,242.0,251.0,NaN
+61.0,51.0,249.0,246.0,NaN
+51.0,41.0,278.0,286.0,NaN
+41.0,31.0,314.0,290.0,313.0
+31.0,21.0,307.0,321.0,NaN
+21.0,11.0,272.0,246.0,NaN

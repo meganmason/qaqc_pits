@@ -1,0 +1,23 @@
+# Location,Boise River Basin
+# Site,Banner Open
+# PitID,IDBRBO
+# Date/Local Time,2020-02-06T13:00
+# UTM Zone,11N
+# Easting,640699
+# Northing,4907213
+# Latitude,44.30455
+# Longitude,-115.23604
+# Top (cm),Bottom (cm),Density A (kg/m3),Density B (kg/m3),Density C (kg/m3)
+132.0,122.0,86.0,92.0,NaN
+122.0,112.0,120.0,116.0,NaN
+112.0,102.0,184.0,164.0,178.0
+102.0,92.0,190.0,189.0,NaN
+92.0,82.0,208.0,218.0,NaN
+82.0,72.0,266.0,263.0,NaN
+72.0,62.0,291.0,296.0,NaN
+62.0,52.0,314.0,318.0,NaN
+52.0,42.0,334.0,345.0,NaN
+42.0,32.0,345.0,340.0,NaN
+32.0,22.0,324.0,320.0,NaN
+22.0,12.0,302.0,320.0,NaN
+12.0,2.0,310.0,350.0,NaN

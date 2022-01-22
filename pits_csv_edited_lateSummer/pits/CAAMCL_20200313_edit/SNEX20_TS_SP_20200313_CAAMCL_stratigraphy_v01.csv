@@ -1,0 +1,15 @@
+# Location,American
+# Site,Caples Lake
+# PitID,CAAMCL
+# Date/Local Time,2020-03-13T11:30
+# UTM Zone,10N
+# Easting,757217
+# Northing,4288782
+# Latitude,38.71029
+# Longitude,-120.04186
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+92.0,76.0,4-6 mm,MF,K,W,NaN
+76.0,58.0,2-4 mm,MF,P,W,Ice lens at 73 cm
+58.0,53.0,4-6 mm,MF,1F,W,NaN
+53.0,38.0,1-2 mm,MF,1F,M,NaN
+38.0,0.0,1-2 mm,MF,P,M,NaN

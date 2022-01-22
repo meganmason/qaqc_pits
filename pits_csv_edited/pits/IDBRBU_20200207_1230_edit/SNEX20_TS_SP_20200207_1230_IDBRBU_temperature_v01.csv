@@ -1,0 +1,26 @@
+# Location,Boise River Basin
+# Site,Bogus Upper
+# PitID,IDBRBU
+# Date/Local Time,2020-02-07T12:30
+# UTM Zone,11N
+# Easting,573240
+# Northing,4845491
+# Latitude,43.75884
+# Longitude,-116.09017
+# Depth (cm),Temperature (deg C)
+150.0,-0.2
+140.0,-1.7
+130.0,-1.8
+120.0,-2.6
+110.0,-2.8
+100.0,-3.2
+90.0,-3.0
+80.0,-2.9
+70.0,-2.5
+60.0,-2.0
+50.0,-1.5
+40.0,-1.1
+30.0,-0.7
+20.0,-0.5
+10.0,-0.2
+0.0,0.0

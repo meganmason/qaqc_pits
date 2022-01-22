@@ -1,0 +1,14 @@
+# Location,CB
+# Site,Upper
+# PitID,3
+# Date/Local Time,2020-02-26T14:00
+# UTM Zone,13N
+# Easting,327528
+# Northing,4311272
+# Latitude,38.93343
+# Longitude,-106.98983
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+118.0,98.0,< 1 mm,NaN,F,NaN,Powder/light
+98.0,83.0,< 1 mm,NaN,4F,NaN,compact
+83.0,43.0,2-4 mm,NaN,1F,NaN,facet
+43.0,0.0,> 6 mm,NaN,1F,NaN,large facet

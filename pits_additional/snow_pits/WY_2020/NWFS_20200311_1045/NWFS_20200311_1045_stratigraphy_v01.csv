@@ -1,0 +1,14 @@
+# Location,NW
+# Site,FS
+# PitID,2
+# Date/Local Time,2020-03-11T10:45
+# UTM Zone,13N
+# Easting,328389
+# Northing,4310494
+# Latitude,38.92659
+# Longitude,-106.97971
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+99.0,94.0,NaN,NaN,FIST,NaN,fresh powder
+94.0,55.0,NaN,NaN,4F,NaN,"rounds, compact powder"
+55.0,20.0,NaN,NaN,4F,NaN,facets
+20.0,0.0,NaN,NaN,4F,NaN,large depth hoar

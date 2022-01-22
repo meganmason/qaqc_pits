@@ -1,0 +1,16 @@
+# Location,CB
+# Site,O2
+# PitID,2
+# Date/Local Time,2020-02-26T10:00
+# UTM Zone,13N
+# Easting,328520
+# Northing,4310833
+# Latitude,38.92967
+# Longitude,-106.97829
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+130.0,115.0,2-4 mm,ROUND,F,NaN,Light
+115.0,110.0,2-4 mm,[],4F,NaN,Ice Chunks?
+110.0,45.0,2-4 mm,ROUND,4F,NaN,gradual coarsening down
+45.0,38.0,2-4 mm,[],1F,NaN,tough
+38.0,35.0,[],[],REG HAND,NaN,Ice
+35.0,0.0,2-4 mm,[],4F,NaN,NaN

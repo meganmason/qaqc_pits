@@ -1,0 +1,14 @@
+# Location,Boise River Basin
+# Site,Bogus Upper
+# PitID,IDBRBU
+# Date/Local Time,2019-12-19T10:00
+# UTM Zone,11N
+# Easting,573240
+# Northing,4845491
+# Latitude,43.75884
+# Longitude,-116.09017
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+57.0,56.0,2-4 mm,PP,F,D,"Rimmed, new snow"
+56.0,40.0,1-2 mm,DF,F,D,NaN
+40.0,23.0,1-2 mm,DF,F,D,"Some larger than 2 mm. Longer, almost rod shaped"
+23.0,0.0,1-2 mm,RG,4F,M,Some corners

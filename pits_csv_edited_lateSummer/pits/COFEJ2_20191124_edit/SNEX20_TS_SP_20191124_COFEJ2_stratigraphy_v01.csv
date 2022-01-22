@@ -1,0 +1,15 @@
+# Location,Fraser
+# Site,JPL #2
+# PitID,COFEJ2
+# Date/Local Time,2019-11-24T11:55
+# UTM Zone,13N
+# Easting,424573
+# Northing,4417710
+# Latitude,39.90612
+# Longitude,-105.88242
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+29.0,19.0,1-2 mm,DF,F,D,NaN
+19.0,15.0,1-2 mm,MFCR,K,D,NaN
+15.0,12.0,1-2 mm,FC,1F,D,NaN
+12.0,8.0,1-2 mm,MFCR,K,D,NaN
+8.0,0.0,1-2 mm,FC,4F,D,NaN

@@ -1,0 +1,17 @@
+# Location,Niwot Ridge
+# Site,Saddle
+# PitID,CONWSA
+# Date/Local Time,2020-02-26T10:16
+# UTM Zone,13N
+# Easting,449623
+# Northing,4434025
+# Latitude,40.05497
+# Longitude,-105.59065
+# Top (cm),Bottom (cm),Density A (kg/m3),Density B (kg/m3),Density C (kg/m3)
+91.0,80.0,190.0,NaN,NaN
+80.0,70.0,381.0,NaN,NaN
+70.0,60.0,261.0,NaN,NaN
+60.0,50.0,361.0,NaN,NaN
+50.0,40.0,323.0,NaN,NaN
+40.0,30.0,305.0,NaN,NaN
+30.0,20.0,344.0,NaN,NaN

@@ -1,0 +1,21 @@
+# Location,East River
+# Site,Irwin Barn
+# PitID,COERIB
+# Date/Local Time,2019-12-19T11:10
+# UTM Zone,13N
+# Easting,317172
+# Northing,4306473
+# Latitude,38.88812
+# Longitude,-107.10796
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+113.5,113.0,< 1 mm,SH,[],[],NaN
+113.0,98.0,< 1 mm,DF,F,D,NaN
+98.0,88.0,< 1 mm,DF,4F,D,NaN
+88.0,77.0,< 1 mm,RG,4F,D,4F+
+77.0,61.0,< 1 mm,RG,1F,D,NaN
+61.0,30.0,1-2 mm,RG,P,D,NaN
+30.0,22.0,1-2 mm,FC,1F,D,"some rounds, 1F+"
+22.0,17.0,2-4 mm,MF,P,D,NaN
+17.0,12.0,2-4 mm,FC,F,D,NaN
+12.0,9.0,2-4 mm,FC,P,D,"some rounds, possible eroded MF crust"
+9.0,0.0,2-4 mm,FC,F,M,"Rounding, F+"

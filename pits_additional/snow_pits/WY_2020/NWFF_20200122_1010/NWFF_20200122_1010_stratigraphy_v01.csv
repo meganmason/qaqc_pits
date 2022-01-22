@@ -1,0 +1,14 @@
+# Location,NW
+# Site,FF
+# PitID,2
+# Date/Local Time,2020-01-22T10:10
+# UTM Zone,13N
+# Easting,453399
+# Northing,4431466
+# Latitude,40.03213
+# Longitude,-105.54619
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+59.0,58.0,< 1 mm,R,NaN,NaN,"Fresh, dusty, wind blown snow"
+58.0,45.0,< 1 mm,R,NaN,NaN,"Granular, dry"
+45.0,23.0,2-4 mm,F,NaN,NaN,increasingly large facets
+23.0,0.0,2-4 mm,F,NaN,NaN,faceted 

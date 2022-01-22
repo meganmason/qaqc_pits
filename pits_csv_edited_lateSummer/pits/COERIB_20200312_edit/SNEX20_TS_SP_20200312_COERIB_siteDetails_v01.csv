@@ -1,0 +1,28 @@
+# Location,East River
+# Site,Irwin Barn
+# PitID,COERIB
+# Date/Local Time,2020-03-12T10:38
+# UTM Zone,13N
+# Easting (m),317172
+# Northing (m),4306473
+# Latitude (deg),38.88812
+# Longitude (deg),-107.10796
+# Slope (deg),0
+# Aspect (deg),NaN
+# Air Temp (deg C),-1.9
+# Total Depth (cm),207
+# Surveyors,"C. Beutler, A. Newman"
+# WISe Serial No,nan
+# Weather,"Mostly overcast with intermittent sun, some light intermittent graupel. Precip=Graupel"
+# Precip,None
+# Sky,Overcast(complete cover)
+# Wind,Calm
+# Ground Condition,Moist
+# Ground Roughness,Rough
+# Ground Vegetation,"Grass,Shrub"
+# Vegetation Depth,"5,5"
+# Tree Canopy,Sparse (5-20%)
+# Comments:,"When clouds cleared right side of pit wall was in sun; measured
+temp/LWC/stratigraphy on left side in shade.  Temp/LWC start time:
+11:08 / end time: 11:38.  LWC air calibration 0.900471. Cound not find
+WISe serial number."

@@ -1,0 +1,18 @@
+# Location,Fraser
+# Site,JPL #2
+# PitID,COFEJ2
+# Date/Local Time,2020-03-11T11:30
+# UTM Zone,13N
+# Easting,424573
+# Northing,4417710
+# Latitude,39.90612
+# Longitude,-105.88242
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+94.0,92.0,1-2 mm,DF,F,D,NaN
+92.0,91.0,2-4 mm,MFCR,K,D,NaN
+91.0,85.0,< 1 mm,FC,F,D,NaN
+85.0,84.0,[],IF,I,D,Ice lense
+84.0,62.0,1-2 mm,FC,1F,D,Rounded facets
+62.0,61.0,[],IF,I,D,"Ice Layer, not continous through pack horizontally "
+61.0,21.0,2-4 mm,FC,F,D,NaN
+21.0,0.0,4-6 mm,FC,1F,D,Variable ice layer at ground interface 

@@ -1,0 +1,19 @@
+# Location,Mammoth Lakes
+# Site,Panorama Dome
+# PitID,CAMLPD
+# Date/Local Time,2020-01-24T09:45
+# UTM Zone,11N
+# Easting,323468
+# Northing,4165496
+# Latitude,37.61964
+# Longitude,-119.00028
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+114.5,114.0,< 1 mm,FC,K,D,mostly small rounding facets with occasional polycrystals
+114.0,108.0,1-2 mm,FC,K,D,small rounding facets with occasional polycrystals
+108.0,102.0,1-2 mm,FC,P,D,Some rounded grains (RG)
+102.0,93.0,1-2 mm,FC,P,D,Some rounded grains (RG)
+93.0,84.0,< 1 mm,FC,4F,D,Some rounded grains (RG)
+84.0,69.0,1-2 mm,FC,K,D,"facets, thin decaying MF crust"
+69.0,60.0,< 1 mm,FC,P,D,Some rounded grains (RG)
+60.0,51.0,< 1 mm,FC,P,D,Some rounded grains (RG)
+51.0,0.0,< 1 mm,FC,P,D,Some rounded grains (RG)

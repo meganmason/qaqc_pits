@@ -1,0 +1,16 @@
+# Location,Fraser
+# Site,SNB #2
+# PitID,COFEB2
+# Date/Local Time,2019-12-19T15:10
+# UTM Zone,13N
+# Easting,424863
+# Northing,4417808
+# Latitude,39.90703
+# Longitude,-105.87904
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+59.0,35.0,< 1 mm,DF,F,D,HH:  F at top of lyer to 1F at bottom of layer
+35.0,23.0,1-2 mm,FC,F,D,NaN
+23.0,20.0,2-4 mm,MFCR,K,D,NaN
+20.0,13.0,2-4 mm,FC,F,D,NaN
+13.0,11.0,2-4 mm,MFCR,K,D,NaN
+11.0,0.0,4-6 mm,FC,4F,D,NaN

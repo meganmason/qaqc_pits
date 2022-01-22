@@ -1,0 +1,15 @@
+# Location,CB
+# Site,Trench13NorthOpen
+# PitID,1
+# Date/Local Time,2020-02-02T00:00
+# UTM Zone,13N
+# Easting,328570
+# Northing,4310779
+# Latitude,38.9292
+# Longitude,-106.9777
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+82.0,71.0,NaN,NaN,NaN,NaN,Fresh
+71.0,62.0,NaN,NaN,NaN,NaN,Hard packed
+62.0,27.0,NaN,NaN,NaN,NaN,Hard packed
+27.0,12.0,NaN,NaN,NaN,NaN,Loose large cryst
+12.0,0.0,NaN,NaN,NaN,NaN,Hard facets

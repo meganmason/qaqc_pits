@@ -1,0 +1,18 @@
+# Location,Cameron Pass
+# Site,Joe Wright
+# PitID,COCPJW
+# Date/Local Time,2020-03-11T10:00
+# UTM Zone,13N
+# Easting,424321
+# Northing,4486308
+# Latitude,40.52405
+# Longitude,-105.89345
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+158.0,144.0,< 1 mm,DF,F,M,NaN
+144.0,142.0,1-2 mm,RG,P,[],"wind crust, well bonded rounds"
+142.0,90.0,< 1 mm,RG,4F,D,NaN
+90.0,80.0,< 1 mm,FC,1F,D,NaN
+80.0,69.0,1-2 mm,FC,4F,D,NaN
+69.0,18.0,2-4 mm,FC,F,D,chains near bottom of layer
+18.0,9.0,2-4 mm,FC,4F,D,depth hoar
+9.0,0.0,1-2 mm,FC,1F,D,some striations 

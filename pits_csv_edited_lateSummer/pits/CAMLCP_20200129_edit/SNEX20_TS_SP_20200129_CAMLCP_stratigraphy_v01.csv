@@ -1,0 +1,16 @@
+# Location,Mammoth Lakes
+# Site,CUES Study Plot
+# PitID,CAMLCP
+# Date/Local Time,2020-01-29T09:50
+# UTM Zone,11N
+# Easting,320985
+# Northing,4168170
+# Latitude,37.64325
+# Longitude,-119.02906
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+68.5,68.0,< 1 mm,FC,4F,D,NaN
+68.0,57.0,1-2 mm,RG,1F,D,Some facets (FC)
+57.0,48.0,1-2 mm,RG,1F,D,Some facets (FC)
+48.0,30.0,1-2 mm,RG,1F,D,Some facets (FC)
+30.0,1.0,1-2 mm,RG,1F,D,Some facets (FC)
+1.0,0.0,< 1 mm,RG,P,D,NaN

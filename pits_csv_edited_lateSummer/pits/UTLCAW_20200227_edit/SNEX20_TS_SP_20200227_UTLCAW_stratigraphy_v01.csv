@@ -1,0 +1,43 @@
+# Location,Little Cottonwood
+# Site,Atwater
+# PitID,UTLCAW
+# Date/Local Time,2020-02-27T11:45
+# UTM Zone,12N
+# Easting,446048
+# Northing,4493579
+# Latitude,40.59125
+# Longitude,-111.63759
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+266.0,264.0,1-2 mm,DF,F,M,"Surface melt, a few old facets with round edges"
+264.0,263.0,1-2 mm,MFCR,F,M,crust - slightly harder; some RG
+263.0,261.0,1-2 mm,RG,F,D,NaN
+261.0,258.0,[],MFCR,K,D,NaN
+258.0,236.0,2-4 mm,RG,F,D,rounds scintering into large aggregate clumps
+236.0,235.0,[],MFCR,K,D,NaN
+235.0,234.0,2-4 mm,RG,4F,D,some rounding facets?
+234.0,233.0,[],MFCR,K,D,NaN
+233.0,179.0,2-4 mm,RG,4F,D,some smaller 1-2 mm
+179.0,177.0,[],MFCR,K,D,"strong horizon, looks wet?"
+177.0,174.0,1-2 mm,RG,P,M,2 ice horizons melting together
+174.0,171.0,[],MFCR,K,D,"big ice lens, possible rain crust"
+171.0,158.0,1-2 mm,RG,1F,D,"Some clumps (aggregate rounds), HH of 1F+"
+158.0,157.0,[],IF,K,D,ice lens comes and goes
+157.0,137.0,2-4 mm,RG,1F,D,HH of 1F+
+137.0,136.0,[],IF,K,D,NaN
+136.0,128.0,1-2 mm,RG,P,D,NaN
+128.0,127.0,[],MFCR,K,D,NaN
+127.0,126.0,1-2 mm,RG,P,D,NaN
+126.0,123.0,[],MFCR,K,D,2 crusts melted together
+123.0,122.0,1-2 mm,RG,P,D,NaN
+122.0,121.0,[],MFCR,K,D,NaN
+121.0,100.0,1-2 mm,RG,P,D,NaN
+100.0,99.0,[],MFCR,K,D,NaN
+99.0,98.0,1-2 mm,RG,P,D,NaN
+98.0,97.0,[],MFCR,K,D,NaN
+97.0,86.0,1-2 mm,RG,P,D,NaN
+86.0,85.0,[],IF,K,D,NaN
+85.0,49.0,1-2 mm,RG,P,D,NaN
+49.0,48.0,[],MFCR,K,D,NaN
+48.0,27.0,2-4 mm,RG,P,D,NaN
+27.0,26.0,[],MFCR,K,D,NaN
+26.0,0.0,2-4 mm,RG,P,D,HH of P+

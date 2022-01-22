@@ -1,0 +1,15 @@
+# Location,NW
+# Site,FS
+# PitID,2
+# Date/Local Time,2020-02-12T11:08
+# UTM Zone,13N
+# Easting,452480
+# Northing,4432343
+# Latitude,40.03998
+# Longitude,-105.55703
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+128.0,105.0,< 1 mm,NaN,NaN,NaN,Fresh rounds
+105.0,84.0,< 1 mm,NaN,NaN,NaN,compacted rounds
+84.0,83.0,[],NaN,NaN,NaN,ice lense
+83.0,62.0,2-4 mm,NaN,NaN,NaN,small facets
+62.0,0.0,2-4 mm,NaN,NaN,NaN,gradient increasing large facets

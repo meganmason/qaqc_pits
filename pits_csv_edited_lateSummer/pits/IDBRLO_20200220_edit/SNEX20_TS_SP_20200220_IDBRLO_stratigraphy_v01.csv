@@ -1,0 +1,20 @@
+# Location,Boise River Basin
+# Site,LDP Open
+# PitID,IDBRLO
+# Date/Local Time,2020-02-20T08:45
+# UTM Zone,11N
+# Easting,570716
+# Northing,4843040
+# Latitude,43.73702
+# Longitude,-116.12184
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+111.0,89.0,< 1 mm,FC,4F,D,NaN
+89.0,76.0,< 1 mm,MF,P,D,NaN
+76.0,72.0,< 1 mm,MFCR,K,D,NaN
+72.0,70.0,< 1 mm,MFCR,K,D,NaN
+70.0,63.0,< 1 mm,MF,1F,D,NaN
+63.0,60.0,< 1 mm,MFCR,K,D,NaN
+60.0,50.0,< 1 mm,RG,1F,D,NaN
+50.0,44.0,1-2 mm,MFCR,P,D,NaN
+44.0,9.0,< 1 mm,RG,P,D,NaN
+9.0,0.0,< 1 mm,MF,P,D,bushes

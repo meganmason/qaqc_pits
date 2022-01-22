@@ -1,0 +1,21 @@
+# Location,Grand Mesa
+# Site,Skyway Open
+# PitID,COGMSO
+# Date/Local Time,2020-03-12T16:20
+# UTM Zone,12N
+# Easting,754270
+# Northing,4325785
+# Latitude,39.04415
+# Longitude,-108.06202
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+106.0,105.0,1-2 mm,PP,F,M,"New snow, melting and round. Also, graupel in this layer: 1-2mm."
+105.0,100.0,1-2 mm,DF,F,M,Crust @ 105 cm
+100.0,94.0,1-2 mm,DF,F,M,NaN
+94.0,88.0,1-2 mm,RG,4F,D,"Melt/freeze crust @94cm; P. Solid, hard."
+88.0,73.0,1-2 mm,FC,F,D,Rounding.
+73.0,62.0,1-2 mm,FC,4F,D,NaN
+62.0,48.0,1-2 mm,FC,F,D,~2 mm
+48.0,31.0,2-4 mm,FC,F,D,NaN
+31.0,22.0,1-2 mm,FC,4F,D,NaN
+22.0,10.0,2-4 mm,FC,4F,D,~4 mm
+10.0,0.0,1-2 mm,FC,4F,D,NaN

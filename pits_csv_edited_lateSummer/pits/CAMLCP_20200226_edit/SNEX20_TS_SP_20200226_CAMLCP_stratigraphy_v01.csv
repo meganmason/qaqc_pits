@@ -1,0 +1,16 @@
+# Location,Mammoth Lakes
+# Site,CUES Study Plot
+# PitID,CAMLCP
+# Date/Local Time,2020-02-26T09:54
+# UTM Zone,11N
+# Easting,320985
+# Northing,4168170
+# Latitude,37.64325
+# Longitude,-119.02906
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+88.5,88.0,1-2 mm,FC,P,D,NaN
+88.0,84.0,1-2 mm,RG,P,D,NaN
+84.0,78.0,< 1 mm,RG,P,D,NaN
+78.0,77.0,< 1 mm,RG,P,D,Field observer indicated hand hardness is 'P+'
+77.0,30.0,1-2 mm,FC,1F,D,Field observer indicated hand hardness is '1F+'
+30.0,0.0,< 1 mm,RG,P,D,Field observer indicated hand hardness is 'P+'

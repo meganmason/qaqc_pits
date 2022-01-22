@@ -1,0 +1,25 @@
+# Location,Boise River Basin
+# Site,Banner Snotel
+# PitID,IDBRBS
+# Date/Local Time,2020-01-09T10:30
+# UTM Zone,11N
+# Easting (m),640819
+# Northing (m),4907111
+# Latitude (deg),44.30361
+# Longitude (deg),-115.23456
+# Slope (deg),6
+# Aspect (deg),NaN
+# Air Temp (deg C),-5.1
+# Total Depth (cm),93.5
+# Surveyors,I. Brangers
+# WISe Serial No,nan
+# Weather,Precip=Light Snow. IB: too much snow for SWE tube - snow was compressed for each sample and then weighed. PD: Perimeter heights measured with magnaprobe.
+# Precip,Very Light
+# Sky,Few (< 1/4 of sky)
+# Wind,Calm
+# Ground Condition,Frozen
+# Ground Roughness,Smooth
+# Ground Vegetation,"Grass,Deadfall"
+# Vegetation Depth,5
+# Tree Canopy,Sparse (5-20%)
+# Comments:," Snow micropen (SMP) files: -651, -652, -653. Ice at 5cm and below."

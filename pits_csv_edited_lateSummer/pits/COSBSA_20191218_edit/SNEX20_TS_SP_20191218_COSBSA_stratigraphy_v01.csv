@@ -1,0 +1,15 @@
+# Location,Senator Beck
+# Site,Swamp Angel
+# PitID,COSBSA
+# Date/Local Time,2019-12-18T09:15
+# UTM Zone,13N
+# Easting,261641
+# Northing,4198978
+# Latitude,37.90714
+# Longitude,-107.71121
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+119.0,95.0,< 1 mm,DF,F,D,Surface hoar (SH) 1-2 mm
+95.0,88.0,< 1 mm,DF,1F,D,NaN
+88.0,60.0,< 1 mm,RG,P,D,2 graupels 2 mm
+60.0,15.0,< 1 mm,RG,P,D,NaN
+15.0,0.0,2-4 mm,FC,4F,D,NaN

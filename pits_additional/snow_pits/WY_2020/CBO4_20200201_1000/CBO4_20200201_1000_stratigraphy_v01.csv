@@ -1,0 +1,14 @@
+# Location,CB
+# Site,O4
+# PitID,1
+# Date/Local Time,2020-02-01T10:00
+# UTM Zone,13N
+# Easting,328432
+# Northing,4310463
+# Latitude,38.92632
+# Longitude,-106.97921
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+110.0,100.0,2-4 mm,FLAKES,F,W-M,"Powder, clumpy"
+100.0,75.0,2-4 mm,ROUND,4F,M,"campact, round"
+75.0,43.0,> 6 mm,FACET,1F,D,small facets
+43.0,0.0,> 6 mm,FACET,1F,D,large facets

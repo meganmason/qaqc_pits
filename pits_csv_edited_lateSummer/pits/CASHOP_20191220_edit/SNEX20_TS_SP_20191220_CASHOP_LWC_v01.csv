@@ -1,0 +1,16 @@
+# Location,Sagehen
+# Site,Open
+# PitID,CASHOP
+# Date/Local Time,2019-12-20T11:23
+# UTM Zone,10N
+# Easting,737572
+# Northing,4368173
+# Latitude,39.43037
+# Longitude,-120.23982
+"# Top
+(cm)","Bottom
+(cm)",Avg Density (kg/m3),Permittivity A,Permittivity B,LWC-vol A (%),LWC-vol B (%)
+41.0,31.0,294.5,1.604,1.565,0.8437134757186286,0.6440586428576328
+31.0,21.0,339.5,1.58,1.575,0.3016432891520935,0.27591825342023074
+21.0,11.0,358.0,1.56,1.461,0.019071353255563302,0.0
+11.0,1.0,324.5,1.598,1.48,0.5365461901439358,0.0

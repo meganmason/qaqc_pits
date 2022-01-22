@@ -1,0 +1,16 @@
+# Location,Sagehen
+# Site,Forest
+# PitID,CASHFO
+# Date/Local Time,2020-01-29T10:53
+# UTM Zone,10N
+# Easting,737378
+# Northing,4368076
+# Latitude,39.42955
+# Longitude,-120.24211
+"# Top
+(cm)","Bottom
+(cm)",Avg Density (kg/m3),Permittivity A,Permittivity B,LWC-vol A (%),LWC-vol B (%)
+30.0,20.0,394.0,1.682,1.506,0.2888024125283668,0.0
+20.0,10.0,326.5,1.521,1.46,0.12209747459471941,0.0
+14.0,4.0,NaN,NaN,1.175,NaN,NaN
+11.0,1.0,309.0,1.537,1.758,0.36792558590289665,1.5007387666058778

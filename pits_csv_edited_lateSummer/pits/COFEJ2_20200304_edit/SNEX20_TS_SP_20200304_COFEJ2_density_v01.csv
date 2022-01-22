@@ -1,0 +1,18 @@
+# Location,Fraser
+# Site,JPL #2
+# PitID,COFEJ2
+# Date/Local Time,2020-03-04T13:20
+# UTM Zone,13N
+# Easting,424573
+# Northing,4417710
+# Latitude,39.90612
+# Longitude,-105.88242
+# Top (cm),Bottom (cm),Density A (kg/m3),Density B (kg/m3),Density C (kg/m3)
+103.0,93.0,184.0,187.0,NaN
+93.0,83.0,229.0,238.0,NaN
+83.0,73.0,275.0,279.0,NaN
+73.0,63.0,299.0,302.0,NaN
+63.0,53.0,285.0,281.0,NaN
+53.0,43.0,266.0,262.0,NaN
+43.0,33.0,266.0,270.0,NaN
+33.0,23.0,249.0,254.0,NaN

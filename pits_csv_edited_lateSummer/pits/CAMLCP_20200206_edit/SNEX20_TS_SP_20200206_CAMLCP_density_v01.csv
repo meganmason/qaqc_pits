@@ -1,0 +1,17 @@
+# Location,Mammoth Lakes
+# Site,CUES Study Plot
+# PitID,CAMLCP
+# Date/Local Time,2020-02-06T13:35
+# UTM Zone,11N
+# Easting,320985
+# Northing,4168170
+# Latitude,37.64325
+# Longitude,-119.02906
+# Top (cm),Bottom (cm),Density A (kg/m3),Density B (kg/m3),Density C (kg/m3)
+74.0,64.0,336.0,320.0,NaN
+64.0,54.0,350.0,356.0,NaN
+54.0,44.0,343.0,328.0,NaN
+44.0,34.0,402.0,385.0,NaN
+34.0,24.0,398.0,417.0,NaN
+24.0,14.0,422.0,413.0,NaN
+14.0,4.0,424.0,423.0,NaN

@@ -1,0 +1,15 @@
+# Location,Boise River Basin
+# Site,Banner Snotel
+# PitID,IDBRBS
+# Date/Local Time,2019-12-18T10:00
+# UTM Zone,11N
+# Easting,640819
+# Northing,4907111
+# Latitude,44.30361
+# Longitude,-115.23456
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+47.2,47.0,1-2 mm,SH,F,D,super light
+47.0,37.0,2-4 mm,DF,F,D,"light, blower powder snow"
+37.0,10.0,1-2 mm,DF,F,D,"slightly harder than first, not blower"
+10.0,7.0,2-4 mm,RG,1F,D,NaN
+7.0,0.0,4-6 mm ,IF,K,D,"some harder than knife, horizontal variability"

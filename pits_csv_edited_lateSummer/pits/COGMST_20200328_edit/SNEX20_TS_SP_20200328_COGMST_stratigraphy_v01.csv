@@ -1,0 +1,20 @@
+# Location,Grand Mesa
+# Site,Skyway Tree
+# PitID,COGMST
+# Date/Local Time,2020-03-28T15:30
+# UTM Zone,12N
+# Easting,754171
+# Northing,4325869
+# Latitude,39.04494
+# Longitude,-108.06313
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+128.0,118.0,1-2 mm,PP,F,D,"New snow, so pretty"
+118.0,92.0,1-2 mm,DF,F,D,Last storm's snow. Dirt horizon @ 118 sinter. 
+92.0,81.0,< 1 mm,RG,4F,D,"MF crust @ 92, <1cm"
+81.0,75.0,< 1 mm,RG,1F,D,MF crust
+75.0,69.0,< 1 mm,RG,4F,D,NaN
+69.0,60.0,1-2 mm,RG,4F,D,NaN
+60.0,50.0,1-2 mm,FC,4F,D,some rounds
+50.0,21.0,1-2 mm,FC,F,D,~2mm
+21.0,9.0,2-4 mm,FC,4F,D,~2mm
+9.0,0.0,2-4 mm,FC,4F,D,NaN

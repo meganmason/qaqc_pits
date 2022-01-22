@@ -1,0 +1,22 @@
+# Location,Sagehen
+# Site,Tower 4
+# PitID,CASHT4
+# Date/Local Time,2020-03-11T11:45
+# UTM Zone,10N
+# Easting,732507
+# Northing,4367108
+# Latitude,39.42216
+# Longitude,-120.29898
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+77.0,70.0,< 1 mm,RG,K,W,grain clusters 1-2mm
+70.0,68.0,[],IF,I,W,"ice lens with coarse layer on top, 1-2mm clusters"
+68.0,67.0,[],IF,I,W,"ice lens with coarse layer on top, 1-2mm clusters"
+67.0,66.0,< 1 mm,RG,K,W,NaN
+66.0,63.0,< 1 mm,RG,K,M,NaN
+63.0,61.0,< 1 mm,RG,P,M,NaN
+61.0,58.0,< 1 mm,RG,P,M,NaN
+58.0,54.0,< 1 mm,RG,P,M,grains << 1mm
+54.0,51.0,< 1 mm,RG,K,M,NaN
+51.0,49.0,< 1 mm,RG,K,M,NaN
+49.0,47.0,[],IF,I,D,NaN
+47.0,0.0,< 1 mm,RG,P,D,NaN

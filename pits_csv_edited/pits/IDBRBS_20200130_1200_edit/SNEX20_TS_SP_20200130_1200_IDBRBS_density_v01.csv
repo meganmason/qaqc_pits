@@ -1,0 +1,23 @@
+# Location,Boise River Basin
+# Site,Banner Snotel
+# PitID,IDBRBS
+# Date/Local Time,2020-01-30T12:00
+# UTM Zone,11N
+# Easting,640819
+# Northing,4907111
+# Latitude,44.30361
+# Longitude,-115.23456
+# Top (cm),Bottom (cm),Density A (kg/m3),Density B (kg/m3),Density C (kg/m3)
+131.0,121.0,110.0,117.0,NaN
+121.0,111.0,121.0,114.0,NaN
+111.0,101.0,136.0,135.0,NaN
+101.0,91.0,159.0,158.0,NaN
+91.0,81.0,203.0,198.0,NaN
+81.0,71.0,253.0,248.0,NaN
+71.0,61.0,277.0,273.0,NaN
+61.0,51.0,307.0,291.0,NaN
+54.0,41.0,317.0,319.0,NaN
+41.0,31.0,303.0,325.0,NaN
+31.0,21.0,298.0,297.0,NaN
+21.0,11.0,316.0,307.0,NaN
+15.0,5.0,299.0,294.0,NaN

@@ -1,0 +1,20 @@
+# Location,Boise River Basin
+# Site,LDP Open
+# PitID,IDBRLO
+# Date/Local Time,2020-02-26T09:28
+# UTM Zone,11N
+# Easting,570716
+# Northing,4843040
+# Latitude,43.73702
+# Longitude,-116.12184
+"# Top
+(cm)","Bottom
+(cm)",Avg Density (kg/m3),Permittivity A,Permittivity B,LWC-vol A (%),LWC-vol B (%)
+101.0,91.0,222.0,NaN,NaN,NaN,NaN
+91.0,81.0,306.0,NaN,NaN,NaN,NaN
+81.0,71.0,346.0,NaN,NaN,NaN,NaN
+71.0,61.0,376.0,NaN,NaN,NaN,NaN
+61.0,51.0,286.6666666666667,NaN,NaN,NaN,NaN
+51.0,41.0,298.0,NaN,NaN,NaN,NaN
+41.0,31.0,308.0,NaN,NaN,NaN,NaN
+31.0,21.0,330.0,NaN,NaN,NaN,NaN

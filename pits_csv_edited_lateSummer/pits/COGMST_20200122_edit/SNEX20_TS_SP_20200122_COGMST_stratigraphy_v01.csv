@@ -1,0 +1,18 @@
+# Location,Grand Mesa
+# Site,Skyway Tree
+# PitID,COGMST
+# Date/Local Time,2020-01-22T16:55
+# UTM Zone,12N
+# Easting,754171
+# Northing,4325869
+# Latitude,39.04494
+# Longitude,-108.06313
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+76.0,67.0,1-2 mm,PP,F,D,NaN
+67.0,59.0,1-2 mm,DF,4F,D,some grains <1 mm. 
+59.0,52.0,< 1 mm,DF,1F,D,NaN
+52.0,47.0,< 1 mm,FC,P,D,Melt crust? I think facets-- there are sharp edges.
+47.0,25.0,2-4 mm,FC,F,D,some grains 1-2 mm
+25.0,21.0,1-2 mm,FC,4F,D,NaN
+21.0,15.0,< 1 mm,FC,1F,D,NaN
+15.0,0.0,2-4 mm,FC,4F,D,some grains 1-2 mm

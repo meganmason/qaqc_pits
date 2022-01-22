@@ -1,0 +1,15 @@
+# Location,NW
+# Site,FS
+# PitID,1
+# Date/Local Time,2020-05-13T10:00
+# UTM Zone,13N
+# Easting,452490
+# Northing,4432370
+# Latitude,40.04022
+# Longitude,-105.55691
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+52.0,50.0,NaN,NaN,NaN,NaN,"melty melt"" layer"
+50.0,42.0,NaN,NaN,NaN,NaN,melting facets
+42.0,40.0,NaN,NaN,NaN,NaN,ice lense
+40.0,13.0,NaN,NaN,NaN,NaN,facets
+13.0,0.0,NaN,NaN,NaN,NaN,depth hoar

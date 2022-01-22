@@ -1,0 +1,22 @@
+# Location,Boise River Basin
+# Site,Bogus Upper
+# PitID,IDBRBU
+# Date/Local Time,2020-02-14T12:30
+# UTM Zone,11N
+# Easting,573240
+# Northing,4845491
+# Latitude,43.75884
+# Longitude,-116.09017
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+136.0,134.0,< 1 mm,RG,K,D,NaN
+134.0,129.0,1-2 mm,DF,1F,D,NaN
+129.0,128.0,1-2 mm,IF,K,D,Icy
+128.0,117.0,< 1 mm,RG,1F,D,NaN
+117.0,116.0,< 1 mm,IF,K,D,Icy
+116.0,109.0,1-2 mm,DF,4F,D,NaN
+109.0,108.0,< 1 mm,IF,K,D,Icy
+108.0,84.0,1-2 mm,DF,4F,D,NaN
+84.0,81.0,< 1 mm,MF,P,D,Icy
+81.0,65.0,< 1 mm,RG,1F,D,NaN
+65.0,29.0,< 1 mm,RG,P,D,NaN
+29.0,0.0,1-2 mm,RG,1F,D,NaN

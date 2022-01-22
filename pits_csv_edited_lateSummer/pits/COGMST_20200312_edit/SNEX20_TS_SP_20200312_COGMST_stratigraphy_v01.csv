@@ -1,0 +1,19 @@
+# Location,Grand Mesa
+# Site,Skyway Tree
+# PitID,COGMST
+# Date/Local Time,2020-03-12T14:45
+# UTM Zone,12N
+# Easting,754171
+# Northing,4325869
+# Latitude,39.04494
+# Longitude,-108.06313
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+83.0,79.0,1-2 mm,PP,F,M,"New snow, surface melting."
+79.0,75.0,1-2 mm,PP,F,M,Crust @ 75cm. less or no melt.
+75.0,72.0,1-2 mm,DF,4F,D,Melt/freeze crust @ 75cm. Rounding grains.
+72.0,65.0,1-2 mm,RG,F,D,NaN
+65.0,51.0,1-2 mm,FC,F,D,Very round.
+51.0,42.0,1-2 mm,FC,4F,D,NaN
+42.0,22.0,2-4 mm,FC,F,D,~2mm
+22.0,9.0,2-4 mm,FC,4F,D,NaN
+9.0,0.0,2-4 mm,FC,1F,D,"Crust, vapor from ground. ~4mm."

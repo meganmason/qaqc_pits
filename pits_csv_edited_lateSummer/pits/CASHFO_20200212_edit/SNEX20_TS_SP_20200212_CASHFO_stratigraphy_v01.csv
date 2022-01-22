@@ -1,0 +1,17 @@
+# Location,Sagehen
+# Site,Forest
+# PitID,CASHFO
+# Date/Local Time,2020-02-12T09:19
+# UTM Zone,10N
+# Easting,737378
+# Northing,4368076
+# Latitude,39.42955
+# Longitude,-120.24211
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+44.0,41.0,1-2 mm,MF,1F,D,NaN
+41.0,39.0,> 6 mm,MFCR,K,D,NaN
+39.0,35.0,1-2 mm,MF,P,D,layer variable in depth
+35.0,30.0,> 6 mm,MFCR,K,D,NaN
+30.0,25.0,1-2 mm,FC,F,D,NaN
+25.0,18.0,2-4 mm,DF,1F,D,NaN
+18.0,0.0,2-4 mm,FC,4F,D,"a mix of FC, DF, depth hoar"

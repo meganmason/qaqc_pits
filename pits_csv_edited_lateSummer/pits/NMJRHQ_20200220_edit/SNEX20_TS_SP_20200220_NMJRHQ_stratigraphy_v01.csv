@@ -1,0 +1,19 @@
+# Location,Jemez River
+# Site,HQ Met Station
+# PitID,NMJRHQ
+# Date/Local Time,2020-02-20T11:56
+# UTM Zone,13N
+# Easting,362632
+# Northing,3969260
+# Latitude,35.85793
+# Longitude,-106.52137
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+60.0,59.0,1-2 mm,MF,K,W,NaN
+59.0,53.0,< 1 mm,RG,1F,W,NaN
+53.0,44.0,1-2 mm,FC,F,M,Some rounded grains (RG)
+44.0,43.0,[],IF,I,[],NaN
+43.0,29.0,1-2 mm,FC,F,M,NaN
+29.0,20.0,2-4 mm,FC,4F,W,Some rounded grains (RG)
+20.0,17.0,2-4 mm,MF,1F,M,NaN
+17.0,10.0,1-2 mm,MF,1F,W,NaN
+10.0,0.0,2-4 mm,FC,1F,V,Some rounded grains (RG)

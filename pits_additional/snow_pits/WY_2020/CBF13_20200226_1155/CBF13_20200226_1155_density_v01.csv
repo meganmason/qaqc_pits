@@ -1,0 +1,19 @@
+# Location,CB
+# Site,F13
+# PitID,3
+# Date/Local Time,2020-02-26T11:55
+# UTM Zone,13N
+# Easting,328563
+# Northing,4310784
+# Latitude,38.92924
+# Longitude,-106.97778
+# Top (cm),Bottom (cm),Density A (kg/m3),Density B (kg/m3),Density C (kg/m3)
+102.0,92.0,147.0,137.0,NaN
+92.0,82.0,220.0,223.0,NaN
+82.0,72.0,251.0,250.0,NaN
+72.0,62.0,256.0,260.0,NaN
+62.0,52.0,295.0,274.0,NaN
+52.0,42.0,271.0,276.0,NaN
+42.0,32.0,305.0,282.0,NaN
+32.0,22.0,307.0,321.0,NaN
+22.0,12.0,322.0,319.0,NaN

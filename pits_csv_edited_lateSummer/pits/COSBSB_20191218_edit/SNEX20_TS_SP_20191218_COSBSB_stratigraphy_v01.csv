@@ -1,0 +1,16 @@
+# Location,Senator Beck
+# Site,Senator Beck
+# PitID,COSBSB
+# Date/Local Time,2019-12-18T14:15
+# UTM Zone,13N
+# Easting,260318
+# Northing,4199007
+# Latitude,37.90705
+# Longitude,-107.72625
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+105.0,89.0,< 1 mm,DF,4F,D,"Some faceted grains (FC), Sastrugi up to 5cm. Hand hardness ranges from 4F-1F"
+89.0,65.0,< 1 mm,RG,P,D,NaN
+65.0,46.0,< 1 mm,DF,1F,D,Rounded grains (RG) <1mm
+46.0,26.0,< 1 mm,RG,P,D,NaN
+26.0,10.0,1-2 mm,FC,1F,D,NaN
+10.0,0.0,2-4 mm,FC,4F,D,"Depth hoar, some voids due to vegetation. Hand hardness ranges from 1F to 4F."

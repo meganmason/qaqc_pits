@@ -1,0 +1,22 @@
+# Location,Boise River Basin
+# Site,Bogus Upper
+# PitID,IDBRBU
+# Date/Local Time,2020-03-04T14:55
+# UTM Zone,11N
+# Easting,573240
+# Northing,4845491
+# Latitude,43.75884
+# Longitude,-116.09017
+# Top (cm),Bottom (cm),Density A (kg/m3),Density B (kg/m3),Density C (kg/m3)
+126.0,116.0,343.0,332.0,NaN
+116.0,106.0,365.0,354.0,NaN
+106.0,96.0,330.0,338.0,NaN
+96.0,86.0,326.0,314.0,NaN
+86.0,76.0,361.0,334.0,323.0
+76.0,66.0,362.0,361.0,NaN
+66.0,56.0,377.0,382.0,NaN
+56.0,46.0,422.0,435.0,NaN
+46.0,36.0,398.0,401.0,NaN
+36.0,26.0,372.0,381.0,NaN
+26.0,16.0,364.0,382.0,378.0
+16.0,6.0,363.0,352.0,NaN

@@ -1,0 +1,26 @@
+# Location,Boise River Basin
+# Site,Banner Snotel
+# PitID,IDBRBS
+# Date/Local Time,2019-12-18T10:00
+# UTM Zone,11N
+# Easting (m),640819
+# Northing (m),4907111
+# Latitude (deg),44.30361
+# Longitude (deg),-115.23456
+# Slope (deg),8
+# Aspect (deg),NaN
+# Air Temp (deg C),-5
+# Total Depth (cm),47
+# Surveyors,M. Mason
+# WISe Serial No,WIS007A
+# Weather,50% light clouds with blue sky. No wind. Roads icy. Ground Veg: mostly bare ground with small amount of grass (5%). 
+# Precip,None
+# Sky,Scattered (1/4 - 1/2 of sky)
+# Wind,Calm
+# Ground Condition,Frozen
+# Ground Roughness,Smooth
+# Ground Vegetation,Grass
+# Vegetation Depth,5
+# Tree Canopy,Sparse (5-20%)
+# Comments:,"17-7cm density measurement: difficult due to knife hardness layer.
+snowmicropen files -617, -618."

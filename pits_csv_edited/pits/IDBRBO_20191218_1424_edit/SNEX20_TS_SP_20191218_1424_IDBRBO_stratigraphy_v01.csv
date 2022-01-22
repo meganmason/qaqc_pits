@@ -1,0 +1,16 @@
+# Location,Boise River Basin
+# Site,Banner Open
+# PitID,IDBRBO
+# Date/Local Time,2019-12-18T14:24
+# UTM Zone,11N
+# Easting,640699
+# Northing,4907213
+# Latitude,44.30455
+# Longitude,-115.23604
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+41.0,40.0,4-6 mm,DF,F,D,"40%PP, 60%DF
+Blower light powder snow!"
+40.0,37.0,2-4 mm,DF,F,D,"""Blower"" snow (in the skier sense - fresh and powdery)"
+37.0,10.0,1-2 mm,DF,F,D,NaN
+10.0,4.0,2-4 mm,DF,F,D,"70%DF, 30%RG"
+4.0,0.0,1-2 mm,DF,F,D,NaN

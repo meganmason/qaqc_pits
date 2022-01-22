@@ -1,0 +1,26 @@
+# Location,Niwot Ridge
+# Site,Saddle
+# PitID,CONWSA
+# Date/Local Time,2020-02-26T10:16
+# UTM Zone,13N
+# Easting (m),449623
+# Northing (m),4434025
+# Latitude (deg),40.05497
+# Longitude (deg),-105.59065
+# Slope (deg),5
+# Aspect (deg),0
+# Air Temp (deg C),-8
+# Total Depth (cm),91
+# Surveyors,"M. Flynn, S. Ciafone, T. Lampard"
+# WISe Serial No,nan
+# Weather,"Very windy! Clear. Wind may affect accuracy of measurements. IB: SWE tube for storm board broke, depth of storm board taken with probe was 21 cm."
+# Precip,None
+# Sky,Few (< 1/4 of sky)
+# Wind,Extreme
+# Ground Condition,Frozen
+# Ground Roughness,Smooth
+# Ground Vegetation,Grass
+# Vegetation Depth,True
+# Tree Canopy,No Trees
+# Comments:,"Tare wt = 750g;   Scale broke for last 2 density cuts, and vegetation
+prevented density measurement at 10-0cm"

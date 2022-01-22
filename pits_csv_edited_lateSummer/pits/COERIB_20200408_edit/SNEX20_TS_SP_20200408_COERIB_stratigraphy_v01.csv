@@ -1,0 +1,22 @@
+# Location,East River
+# Site,Irwin Barn
+# PitID,COERIB
+# Date/Local Time,2020-04-08T11:42
+# UTM Zone,13N
+# Easting,317172
+# Northing,4306473
+# Latitude,38.88812
+# Longitude,-107.10796
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+197.0,192.0,2-4 mm,MF,P,M,grain aggregates >2-4mm
+192.0,182.0,1-2 mm,RG,F,M,NaN
+182.0,179.0,[],IF,K,D,"ice, no grain size / wetness"
+179.0,160.0,1-2 mm,RG,1F,M,NaN
+160.0,158.0,2-4 mm,MF,P,M,NaN
+158.0,155.0,1-2 mm,RG,4F,M,NaN
+155.0,152.0,[],MF,P,D,grain size = 4-6 mm (google sheets won't let me select this option)
+152.0,148.0,1-2 mm,RG,1F,M,NaN
+148.0,146.0,1-2 mm,MF,4F,D,some rounds
+146.0,70.0,1-2 mm,RG,1F,M,Average grain size ~1mm
+70.0,10.0,2-4 mm,RG,1F,M,NaN
+10.0,0.0,2-4 mm,FC,1F,M,"Rounded facets, some grains >4mm. "

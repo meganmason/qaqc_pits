@@ -1,0 +1,16 @@
+# Location,Grand Mesa
+# Site,County Line Open
+# PitID,COGMCO
+# Date/Local Time,2019-12-19T12:20
+# UTM Zone,12N
+# Easting,756903
+# Northing,4324357
+# Latitude,39.03053
+# Longitude,-108.03217
+# Top (cm),Bottom (cm),Density A (kg/m3),Density B (kg/m3),Density C (kg/m3)
+61.0,51.0,195.0,195.0,NaN
+51.0,41.0,218.0,219.0,NaN
+41.0,31.0,259.0,249.0,NaN
+31.0,21.0,272.0,294.0,NaN
+21.0,11.0,278.0,282.0,NaN
+11.0,1.0,220.0,192.0,NaN

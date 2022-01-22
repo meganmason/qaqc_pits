@@ -1,0 +1,13 @@
+# Location,NW
+# Site,FS
+# PitID,3
+# Date/Local Time,2020-01-22T14:00
+# UTM Zone,13N
+# Easting,452491
+# Northing,4432381
+# Latitude,40.04032
+# Longitude,-105.5569
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+76.0,73.0,1-2 mm,R,NaN,NaN,"Fresh, dusty, grainy"
+73.0,32.0,1-2 mm,[],NaN,NaN,increasingly large facets
+32.0,0.0,1-2 mm,[],NaN,NaN,large facets

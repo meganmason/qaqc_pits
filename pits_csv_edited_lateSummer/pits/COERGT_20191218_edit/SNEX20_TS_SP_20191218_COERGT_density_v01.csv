@@ -1,0 +1,16 @@
+# Location,East River
+# Site,Gothic
+# PitID,COERGT
+# Date/Local Time,2019-12-18T13:16
+# UTM Zone,13N
+# Easting,327531
+# Northing,4314139
+# Latitude,38.95925
+# Longitude,-106.99052
+# Top (cm),Bottom (cm),Density A (kg/m3),Density B (kg/m3),Density C (kg/m3)
+65.0,55.0,132.0,126.0,NaN
+55.0,45.0,176.0,173.0,NaN
+45.0,35.0,186.0,188.0,NaN
+35.0,25.0,225.0,226.0,NaN
+25.0,15.0,263.0,260.0,NaN
+15.0,5.0,272.0,249.0,NaN

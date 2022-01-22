@@ -1,0 +1,16 @@
+# Location,Fraser
+# Site,JPL #2
+# PitID,COFEJ2
+# Date/Local Time,2019-12-10T12:45
+# UTM Zone,13N
+# Easting,424573
+# Northing,4417710
+# Latitude,39.90612
+# Longitude,-105.88242
+# Depth (cm),Temperature (deg C)
+45.0,NaN
+40.0,-3.5
+30.0,-4.0
+20.0,-2.0
+10.0,-1.5
+0.0,-0.5

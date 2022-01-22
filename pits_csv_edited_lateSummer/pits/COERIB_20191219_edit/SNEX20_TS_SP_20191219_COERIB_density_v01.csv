@@ -1,0 +1,21 @@
+# Location,East River
+# Site,Irwin Barn
+# PitID,COERIB
+# Date/Local Time,2019-12-19T11:10
+# UTM Zone,13N
+# Easting,317172
+# Northing,4306473
+# Latitude,38.88812
+# Longitude,-107.10796
+# Top (cm),Bottom (cm),Density A (kg/m3),Density B (kg/m3),Density C (kg/m3)
+114.0,104.0,144.0,139.0,NaN
+104.0,94.0,199.0,206.0,NaN
+94.0,84.0,193.0,196.0,NaN
+84.0,74.0,204.0,212.0,NaN
+74.0,64.0,235.0,244.0,NaN
+64.0,54.0,256.0,256.0,NaN
+54.0,44.0,288.0,291.0,NaN
+44.0,34.0,314.0,319.0,NaN
+34.0,24.0,305.0,314.0,NaN
+24.0,14.0,280.0,274.0,NaN
+14.0,4.0,283.0,268.0,274.0

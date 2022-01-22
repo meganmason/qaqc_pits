@@ -1,0 +1,17 @@
+# Location,Fraser
+# Site,SNB #1
+# PitID,COFEB1
+# Date/Local Time,2020-01-31T12:30
+# UTM Zone,13N
+# Easting,424968
+# Northing,4417802
+# Latitude,39.90698
+# Longitude,-105.87781
+# Top (cm),Bottom (cm),Density A (kg/m3),Density B (kg/m3),Density C (kg/m3)
+77.0,67.0,148.0,161.0,NaN
+67.0,57.0,209.0,219.0,NaN
+57.0,47.0,219.0,219.0,NaN
+47.0,37.0,249.0,248.0,NaN
+37.0,27.0,259.0,250.0,NaN
+27.0,17.0,250.0,249.0,NaN
+17.0,7.0,248.0,NaN,NaN

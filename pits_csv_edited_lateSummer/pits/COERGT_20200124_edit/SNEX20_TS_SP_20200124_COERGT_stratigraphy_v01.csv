@@ -1,0 +1,18 @@
+# Location,East River
+# Site,Gothic
+# PitID,COERGT
+# Date/Local Time,2020-01-24T12:05
+# UTM Zone,13N
+# Easting,327531
+# Northing,4314139
+# Latitude,38.95925
+# Longitude,-106.99052
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+81.5,81.0,< 1 mm,DF,F,D,NaN
+81.0,71.0,< 1 mm,DF,F,D,NaN
+71.0,55.0,< 1 mm,RG,1F,D,NaN
+55.0,33.0,1-2 mm,FC,F,"D
+",NaN
+33.0,20.0,1-2 mm,FC,4F,D,NaN
+20.0,10.0,2-4 mm,FC,1F,D,NaN
+10.0,0.0,2-4 mm,FC,4F,D,NaN

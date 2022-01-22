@@ -1,0 +1,21 @@
+# Location,East River
+# Site,Irwin Barn
+# PitID,COERIB
+# Date/Local Time,2020-04-22T12:30
+# UTM Zone,13N
+# Easting,317172
+# Northing,4306473
+# Latitude,38.88812
+# Longitude,-107.10796
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+211.0,203.0,1-2 mm,MF,1F,W,"some grains aggregates, coarser than 1-2mm"
+203.0,188.0,1-2 mm,RG,F,M,NaN
+188.0,179.0,2-4 mm,MF,1F,M,NaN
+179.0,177.0,[],IF,K,[],NaN
+177.0,163.0,< 1 mm,RG,1F,M,NaN
+163.0,160.0,[],IF,K,[],NaN
+160.0,149.0,< 1 mm,RG,1F,M,NaN
+149.0,146.0,2-4 mm,MF,4F,M,NaN
+146.0,70.0,< 1 mm,RG,1F,M,"some grain aggregates, coarser than 1mm"
+70.0,14.0,1-2 mm,RG,1F,M,some grains coarser than 1-2mm
+14.0,0.0,2-4 mm,RG,4F,M,NaN

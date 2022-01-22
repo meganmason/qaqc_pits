@@ -1,0 +1,14 @@
+# Location,Jemez River
+# Site,HQ Met Station
+# PitID,NMJRHQ
+# Date/Local Time,2019-12-20T11:00
+# UTM Zone,13N
+# Easting,362632
+# Northing,3969260
+# Latitude,35.85793
+# Longitude,-106.52137
+"# Top
+(cm)","Bottom
+(cm)",Avg Density (kg/m3),Permittivity A,Permittivity B,LWC-vol A (%),LWC-vol B (%)
+35.0,25.0,216.5,1.338,NaN,0.1610835918665428,NaN
+25.0,15.0,267.5,1.336,NaN,0.0,NaN

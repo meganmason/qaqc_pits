@@ -1,0 +1,15 @@
+# Location,Grand Mesa
+# Site,Skyway Tree
+# PitID,COGMST
+# Date/Local Time,2020-02-19T15:00
+# UTM Zone,12N
+# Easting,754171
+# Northing,4325869
+# Latitude,39.04494
+# Longitude,-108.06313
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+76.0,NaN,< 1 mm,DF,F,D,NaN
+69.0,NaN,< 1 mm,RG,F,D,NaN
+55.0,NaN,< 1 mm,RG,1F,D,some facets
+46.0,NaN,1-2 mm,FC,4F,D,NaN
+27.0,0.0,1-2 mm,FC,1F,D,NaN

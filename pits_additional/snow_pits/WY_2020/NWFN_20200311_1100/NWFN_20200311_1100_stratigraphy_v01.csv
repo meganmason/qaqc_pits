@@ -1,0 +1,13 @@
+# Location,NW
+# Site,FN
+# PitID,1
+# Date/Local Time,2020-03-11T11:00
+# UTM Zone,13N
+# Easting,452778
+# Northing,4431584
+# Latitude,40.03316
+# Longitude,-105.55348
+# Top (cm),Bottom (cm),Grain Size (mm),Grain Type,Hand Hardness,Manual Wetness,Comments
+105.0,99.0,< 1 mm,NaN,NaN,NaN,"dusty, windblown"
+99.0,62.0,< 1 mm,NaN,NaN,NaN,small facets
+62.0,0.0,> 6 mm,NaN,NaN,NaN,increasingly large facets
