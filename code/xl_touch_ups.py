@@ -3,10 +3,13 @@ import glob
 from csv import writer
 from pathlib import Path
 from openpyxl import load_workbook
+from openpyxl.styles import Alignment
 
-path = Path('/Users/meganmason491/Documents/snowex/2020/timeseries/qaqc_pits/pits_csv_edited/pits/')
+# path = Path('/Users/meganmason491/Documents/snowex/2020/timeseries/qaqc_pits/pits_csv_edited/pits/')
+path = Path('/Users/mamason6/Documents/snowex/core-datasets/ground/snow-pits/outputs/pits/')
 
 for filename in path.rglob('*.xlsx'):
+    print(filename.name)
 
 # Grain Size column spacing
     wb = load_workbook(filename)
@@ -18,9 +21,11 @@ for filename in path.rglob('*.xlsx'):
     ws.column_dimensions['V'].width = 4.33
 
 # Dielectric constant alignment
-    # ws['H9'].alignment.vertical = "top"
-    #
-    # align = Alignment(vertical='top', wrap_text=True)#Solid fill
-    # ws['H9'].alignment = align
+    ws['H9'].alignment = Alignment(vertical='top', horizontal='center', wrap_text=True)
+    ws['J9'].alignment = Alignment(vertical='top', horizontal='center', wrap_text=True)
+
+# Shrink to fit
+    ws['L8'].alignment = Alignment(shrink_to_fit=True)
+
 # Save workbook
     wb.save(filename)
