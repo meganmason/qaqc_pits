@@ -17,12 +17,12 @@ e.g. IDBRBU_20200126_1456
 '''
 
 path = Path('/Users/mamason6/Google Drive/My Drive/SnowEx-2020/SnowEx-2020-timeseries-pits/timeseries_pitbook_sheets_EDIT/COMPLETE')
+# path = Path('/Users/mamason6/Google Drive/My Drive/SnowEx-2020/SnowEx-2020-timeseries-pits/timeseries_pitbook_sheets_EDIT/FOR_EDIT/Grand-Mesa-2')
 
 for filename in path.rglob('*.xlsx'):
 
-    # extract filename components
-    name = filename.stem #stem
-    time = name.split('_')[2]
+    # extract time from filename components
+    time = filename.stem.split('_')[2]
 
     # load workbook (excel pit sheet)
     wb = load_workbook(filename)
@@ -30,7 +30,7 @@ for filename in path.rglob('*.xlsx'):
 
     # append time to pitID
     pitID = ws['B6'].value
-    newPitID = pitID + '_' + time
+    newPitID = pitID[:15] + '_' + time
     ws['B6'].value = newPitID
     print("%s --> %s" %(pitID, newPitID))
 
