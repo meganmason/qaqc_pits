@@ -25,7 +25,7 @@ for filename in path.rglob('*.xlsx'):
     ws['J9'].alignment = Alignment(vertical='top', horizontal='center', wrap_text=True)
 
 # Shrink to fit
-    ws['L8'].alignment = Alignment(shrink_to_fit=True)
+    # ws['L8'].alignment = Alignment(shrink_to_fit=True)
 
 # Save workbook
     wb.save(filename)

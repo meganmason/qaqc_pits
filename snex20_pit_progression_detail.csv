@@ -1,0 +1,53 @@
+No.,State,Location,Site,PitID,Latitude,Longitude,Easting,Northing,Zone,Pit Count,Site,,Pit Progression Detail
+0,CA,American River Basin,Caples Lake,CAAMCL,38.71029,-120.04186,757217,4288782,10,7,Caples Lake,ask,"pit progression was southwest, roughly 1m spacing per visit"
+1,CA,Mammoth Lakes,CUES,CAMLCP,37.64324,-119.02906,320985,4168170,11,9,CUES,ask,
+2,CA,Mammoth Lakes,Panorama Dome,CAMLPD,37.61964,-119.00029,323468,4165496,11,6,Panorama Dome,done,pit progression was southwest (upslope) 60-100 cm from the previous pit
+3,CA,Sagehen Creek,Forest,CASHFO,39.42956,-120.24211,737378,4368078,10,7,Forest,done,pit progession was generally to the south and varied within a 15 m radius due to deadfall and forest interferance 
+4,CA,Sagehen Creek,Open,CASHOP,39.43037,-120.23982,737572,4368173,10,7,Open,done,"pit progression was to the south, roughly 1m spacing per visit"
+5,CA,Sagehen Creek,Tower 4,CASHT4,39.42216,-120.29898,732507,4367108,10,6,Tower 4,done,"pit progression was to the south, roughly 1 meter spacing per visit"
+6,CO,Cameron Pass,Joe Wright,COCPJW,40.52406,-105.89345,424321,4486308,13,8,Joe Wright,done,"pit progression was south, roughly 1m spacing per visit"
+7,CO,Cameron Pass,Michigan River,COCPMR,40.51864,-105.89193,424444,4485706,13,8,Michigan River,done,"pit progression was east, then transistioned south, roughly 1m spacing per visit"
+8,CO,East River,Forest 12,COER12,38.92973,-106.97824,328524,4310839,13,12,Forest 12,done,5-10 m radius per visit for pit clusters
+9,CO,East River,Forest 13,COER13,38.92943,-106.97777,328564,4310805,13,9,Forest 13,done,5-10 m radius per visit for pit clusters
+10,CO,East River,Forest 14,COER14,38.92894,-106.97757,328580,4310750,13,12,Forest 14,done,5-10 m radius per visit for pit clusters
+11,CO,East River,Aspen,COERAP,38.92529,-106.97109,329134,4310333,13,9,Aspen,no change,5-10 m radius per visit for pit clusters
+12,CO,East River,Gothic,COERGT,38.95925,-106.99053,327531,4314139,13,9,Gothic,done,pits were dug in two rows; the first moving south followed by a pit to the west before repeating
+13,CO,East River,Irwin Barn,COERIB,38.88812,-107.10796,317172,4306473,13,13,Irwin Barn,confirm changes,"The first pit is in the middle of the plot (lengthwise) on the NE edge, subsequent pits trended SE until we neared the edge of plot; we then went 1 pit length to the SW direction - then began trending NW in the plot. Basically the shape was a big horseshoe."
+14,CO,East River,Open 2,COERO2,38.92661,-106.97848,328496,4310494,13,9,Open 2,no change,5-10 m radius per visit for pit clusters
+15,CO,East River,Open 4,COERO4,38.92627,-106.97907,328444,4310457,13,12,Open 4,no change,5-10 m radius per visit for pit clusters
+16,CO,East River,Open 6,COERO6,38.92669,-106.97988,328375,4310505,13,9,Open 6,no change,5-10 m radius per visit for pit clusters
+17,CO,East River,Trench 13,COERTR,38.9292,-106.9777,328570,4310779,13,5,Trench 13,no change,"Trench was ~5m long, with pit spacing ~1m"
+18,CO,East River,Upper,COERUP,38.93331,-106.98994,327518,4311259,13,12,Upper,no change,5-10 m radius per visit for pit clusters
+19,CO,Fraser Experimental Forest,SNB 1,COFEB1,39.90699,-105.87786,424964,4417802,13,8,SNB 1,done,"pit progression was east, after 3-5 pits new row started to the south"
+20,CO,Fraser Experimental Forest,SNB 2,COFEB2,39.90703,-105.87904,424863,4417808,13,6,SNB 2,done,pit progression was random within 10m radius due to vegetation and animal disturbance
+21,CO,Fraser Experimental Forest,JPL 1,COFEJ1,39.90556,-105.88282,424539,4417649,13,21,JPL 1,done,"pit progression was south, at the edge of the study plot a new row was started to the west and moved south again."
+22,CO,Fraser Experimental Forest,JPL 2,COFEJ2,39.90612,-105.88255,424563,4417711,13,16,JPL 2,done,"pit progression was south, at the edge of the study plot a new row was started to the west and moved south again."
+23,CO,Grand Mesa,County Line Open,COGMCO,39.03053,-108.0322,756900,4324356,12,12,County Line Open,no change,"pit progression was mostly random based on a central GPS point, within 5-10m radius"
+24,CO,Grand Mesa,County Line Tree,COGMCT,39.03223,-108.03438,756705,4324539,12,10,County Line Tree,no change,"pit progression was mostly random based on a central GPS point, within 30m east to west and 15m north to south spread"
+25,CO,Grand Mesa,Skyway Open,COGMSO,39.04511,-108.06209,754260,4325891,12,20,Skyway Open,no change,"pit progression was mostly random based on a central GPS point, spread northeast to southwest by ~1km"
+26,CO,Grand Mesa,Skyway Tree,COGMST,39.04565,-108.06333,754151,4325947,12,18,Skyway Tree,no change,"pit progression was mostly random based on a central GPS point, spread northeast to southwest by ~600m"
+27,CO,Grand Mesa,Mesa West Open,COGMWO,39.03399,-108.2139,741158,4324243,12,10,Mesa West Open,no change,"pit progression was mostly random based on a central GPS point, spread east to west ~230m and spread north to south ~100m"
+28,CO,Grand Mesa,Mesa West Trees,COGMWT,39.03282,-108.21291,741247,4324116,12,7,Mesa West Trees,no change,"pit progression was mostly random based on a central GPS point, spread east to west ~300m and spread north to south ~100m"
+29,CO,Niwot Ridge,C1,CONWC1,40.03317,-105.54616,453402,4431582,13,9,C1,done,"pit progression was east, 1m"
+30,CO,Niwot Ridge,Forest Flat,CONWFF,40.03186,-105.54667,453358,4431437,13,12,Forest Flat,no change,5-10 m radius per visit for pit clusters
+31,CO,Niwot Ridge,Forest North,CONWFN,40.03337,-105.5538,452751,4431608,13,11,Forest North,no change,5-10 m radius per visit for pit clusters
+32,CO,Niwot Ridge,Forest South,CONWFS,40.04021,-105.55701,452481,4432369,13,13,Forest South,no change,5-10 m radius per visit for pit clusters
+33,CO,Niwot Ridge,Open Flat,CONWOF,40.03579,-105.55205,452902,4431876,13,15,Open Flat,no change,5-10 m radius per visit for pit clusters
+34,CO,Niwot Ridge,Saddle,CONWSA,40.05497,-105.59065,449623,4434025,13,7,Saddle,done,"pit progression was north, 1m"
+35,CO,Senator Beck,Swamp Angel,COSBSA,37.90714,-107.71121,261641,4198978,13,8,Swamp Angel,done,"pit progression started in the northwest study plot corner and moved east. At the plot edge, moved 3-4m south and then started a new row going west. "
+36,CO,Senator Beck,Senator Beck,COSBSB,37.90705,-107.72626,260318,4199007,13,5,Senator Beck,done,pit progression started in the northeast corner and moved west
+37,ID,Boise River Basin,Banner Open,IDBRBO,44.30456,-115.23601,640701,4907214,11,10,Banner Open,megan,"pit progression was southwest, roughly 1m in spacing per visit. "
+38,ID,Boise River Basin,Banner Snotel,IDBRBS,44.30362,-115.23457,640819,4907112,11,10,Banner Snotel,megan,pit progression was south with a slight arc towards the snotel station. Spacing was roughly 1m per visit. Some left to right movement necessary to avoid tree bomb interferance 
+39,ID,Boise River Basin,Bogus Upper,IDBRBU,43.75881,-116.09019,573238,4845488,11,11,Bogus Upper,megan,"pit progression was southwest (migrating slightly downslope over a knob). At the study plot edge, a new row was formed ~2 m east and a new line started. "
+40,ID,Boise River Basin,LDP Open,IDBRLO,43.73707,-116.12179,570720,4843045,11,7,LDP Open,done,"pit progression was north (upslope), roughly 1m in spacing per visit. Last two pits moved ~20m northeast due to human caused disturbance at the study plot."
+41,ID,Boise River Basin,LDP Tree,IDBRLT,43.73634,-116.12053,570823,4842965,11,7,LDP Tree,done,"pit progression was north (upslope), roughly 1m in spacing per visit."
+42,ID,Boise River Basin,Mores Creek Summit,IDBRMC,43.94735,-115.67666,606192,4866876,11,2,Mores Creek Summit,done,pits were offset by 1 m based on the original fixed position provided
+43,NM,Jemez River,BA Flux Tower,NMJRBA,35.88859,-106.53184,361740,3972675,13,8,BA Flux Tower,ask,"pit progression was south, 1-2m"
+44,NM,Jemez River,HQ Met Station,NMJRHQ,35.85791,-106.52137,362632,3969257,13,8,HQ Met Station,ask,"pit progression was south, 1-2m"
+45,UT,Little Cottonwood Canyon,Alta Collins,UTLCAC,40.5721,-111.62997,446677,4491448,12,7,Alta Collins,done,"pit progression was east, roughly 1m in spacing per visit. At the study plot edge, a new row was formed ~2m southward on the western edge. "
+46,UT,Little Cottonwood Canyon,Atwater,UTLCAW,40.59125,-111.63759,446048,4493579,12,7,Atwater,done,"pit progression was east, roughly 1m in spacing per visit. At the study plot edge, a new row was formed ~2m southward on the western edge. "
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,linear pit progression
+,,,,,,,,,,,,,random pit progression

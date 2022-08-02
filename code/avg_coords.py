@@ -55,6 +55,8 @@ df.drop(rmv_idx, inplace=True) #drop all rows idenified above
 # mean location of snow pit study plot for time series
 grp = df.groupby("PitID").mean()
 
+# df.groupby(['Name','Type','ID']).count().reset_index()
+
 # sig figs by column
 grp['Latitude'] = grp['Latitude'].round(decimals=5)
 grp['Longitude'] = grp['Longitude'].round(decimals=5)

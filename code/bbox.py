@@ -38,7 +38,7 @@ df = pd.DataFrame(columns = ['Site', 'UL-lat', 'UL-lon', 'LR-lat', 'LR-lon'])
 
 #sites ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-site = 'American River' #repeat coords and it works...
+site = 'American River Basin' #repeat coords and it works...
 coords = [(38.71029, -120.04186),
           (38.71029, -120.04186)]
 
@@ -70,7 +70,7 @@ ignore_index=True)
 print("\n{}: (UL) {}, {}, (LR) {}, {};".
 format(site, bbox.minx, bbox.miny, bbox.maxx, bbox.maxy))
 
-site = 'Sagehen'
+site = 'Sagehen Creek'
 coords = [(39.42955, -120.24210),
           (39.43037, -120.23982),
           (39.42216, -120.29898)]
@@ -103,7 +103,7 @@ ignore_index=True)
 print("\n{}: (UL) {}, {}, (LR) {}, {};".
 format(site, bbox.minx, bbox.miny, bbox.maxx, bbox.maxy))
 
-site = 'Fraser'
+site = 'Fraser Experimental Forest'
 coords = [(39.90556, -105.88281),
           (39.90612, -105.88255),
           (39.90697, -105.87783),
@@ -171,7 +171,7 @@ ignore_index=True)
 print("\n{}: (UL) {}, {}, (LR) {}, {};".
 format(site, bbox.minx, bbox.miny, bbox.maxx, bbox.maxy))
 
-site = 'Upper Gunnison'
+site = 'East River'
 coords = [(38.95925, -106.99053),
           (38.88812, -107.10796)]
 
@@ -187,7 +187,7 @@ ignore_index=True)
 print("\n{}: (UL) {}, {}, (LR) {}, {};".
 format(site, bbox.minx, bbox.miny, bbox.maxx, bbox.maxy))
 
-site = 'Boise River'
+site = 'Boise River Basin'
 coords = [(44.30455, -115.23605),
           (44.30362, -115.23456),
           (43.75884, -116.09017),
@@ -224,7 +224,7 @@ print("\n{}: (UL) {}, {}, (LR) {}, {};".
 format(site, bbox.minx, bbox.miny, bbox.maxx, bbox.maxy))
 
 
-site = 'Little Cottonwood'
+site = 'Little Cottonwood Canyon'
 coords = [(40.57210, -111.62997),
           (40.59125, -111.63759)]
 

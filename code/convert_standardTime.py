@@ -46,10 +46,12 @@ for filename in sorted(path.rglob('*.xlsx')):
         Time_str = filename.stem.split('_')[2] # old time string from filename
         newTime_str = newTime.time().strftime("%H%M") # new time as string from line above
         newFilename = Path(str(filename).replace(Time_str, newTime_str)) # update filename
+
+        # overwrite time
+        ws['X6'].value = newTime.time() # make it just time
         os.remove(filename) # remove original file ("replace" doesn't overwrite file)
 
         print("%s @ %s --> %s" %(date.date(), time, newTime.time())) #great print statement (notice all dates post 3/8 are -1-hr.)
-
 
     else: # technically this isn't necessary, but good way to make sure all times are datetime type (not strings)
         newTime = time #same variable to keep it easy, not all times are being changed!
@@ -57,9 +59,8 @@ for filename in sorted(path.rglob('*.xlsx')):
 
         print("%s @ %s --> %s" %(date.date(), time, time)) # see, time doesn't change here
 
-
-    # overwrite time (for all, why not)
-    ws['X6'].value = newTime
+        # overwrite time (for all, why not)
+        ws['X6'].value = newTime # it is datetime.time() already 
 
     # Save workbook
     wb.save(newFilename)
